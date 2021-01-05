@@ -1,0 +1,1386 @@
+[
+        {
+            "productId": [
+                3098357,
+                3500590,
+                2780307,
+                3391897,
+                3132586,
+                2785339,
+                2777978,
+                3578078
+            ],
+            "catId": 14,
+            "catLevel": 1,
+            "fId": 0,
+            "isLeaf": false,
+            "name": "最新优惠",
+            "weights": 1,
+            "children": [
+                {
+                    "productId": [
+                        3098357,
+                        3132586,
+                        2785339,
+                        2777978,
+                        3391897,
+                        3500590,
+                        2780307,
+                        3578078
+                    ],
+                    "catId": 16,
+                    "catLevel": 2,
+                    "fId": 14,
+                    "isLeaf": true,
+                    "name": "半价优惠",
+                    "weights": 1,
+                    "children": [],
+                    "productList": [
+                        {
+                            "key": 3098357,
+                            "productId": 3098357,
+                            "title": "超级冠营养米粉518g",
+                            "subTitle": "",
+                            "headImg": "https://snsdy.tc.qq.com/161/20304/snscosdownload/SZ/reserved/5fad28a40001a9a50000000023155f09000000a000004f50",
+                            "status": 5,
+                            "soldNum": 0,
+                            "statusText": "销售中",
+                            "statusBigText": "售卖中",
+                            "editTime": 1605194292,
+                            "editStatus": 4,
+                            "editStatusText": "审核成功",
+                            "price": 7800,
+                            "totalStockNum": 999,
+                            "skuList": [
+                                {
+                                    "skuId": "9276045",
+                                    "price": 7800
+                                }
+                            ],
+                            "source": 1,
+                            "platformTitle": "小商店",
+                            "platformId": 0
+                        },
+                        {
+                            "key": 3132586,
+                            "productId": 3132586,
+                            "title": "金胚芽婴幼儿米粉300g",
+                            "subTitle": "",
+                            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/BeUQRV-4hlpGPI5wMgo-9o0_GB6ubInpihbTp1Enccj6FOyGzPIdvIkmQqD6jFB3?media-id=BeUQRV-4hlpGPI5wMgo-9o0_GB6ubInpihbTp1Enccj6FOyGzPIdvIkmQqD6jFB3&appid=wx4bc7960451a867ae",
+                            "status": 5,
+                            "soldNum": 0,
+                            "statusText": "销售中",
+                            "statusBigText": "售卖中",
+                            "editTime": 1605236741,
+                            "editStatus": 4,
+                            "editStatusText": "审核成功",
+                            "price": 3600,
+                            "totalStockNum": 999,
+                            "skuList": [
+                                {
+                                    "skuId": "8909114",
+                                    "price": 3600
+                                }
+                            ],
+                            "source": 1,
+                            "platformTitle": "小商店",
+                            "platformId": 0
+                        },
+                        {
+                            "key": 2785339,
+                            "productId": 2785339,
+                            "title": "贝之翼纯有机米粉婴儿辅食奶粉伴侣450g罐装¥78",
+                            "subTitle": "",
+                            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/NSk1ApQnX4JM0wglC_S2DPAful_7a0Qv6wdy8rXbBFDnguVRljvgo_n-uX1y1U3v?media-id=NSk1ApQnX4JM0wglC_S2DPAful_7a0Qv6wdy8rXbBFDnguVRljvgo_n-uX1y1U3v&appid=wx678687fa5226e237",
+                            "status": 5,
+                            "soldNum": 0,
+                            "statusText": "销售中",
+                            "statusBigText": "售卖中",
+                            "editTime": 1604576209,
+                            "editStatus": 4,
+                            "editStatusText": "审核成功",
+                            "price": 7800,
+                            "totalStockNum": 999,
+                            "skuList": [
+                                {
+                                    "skuId": "8611255",
+                                    "price": 7800
+                                }
+                            ],
+                            "source": 1,
+                            "platformTitle": "小商店",
+                            "platformId": 0
+                        },
+                        {
+                            "key": 2777978,
+                            "productId": 2777978,
+                            "title": "贝之翼黄小米婴儿辅食宝宝口粮500g",
+                            "subTitle": "",
+                            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/jgtowyLpVV8lIopK5slPNKm1RjxpJZatZ2P8NlB0GxrOKqrCnMmAVYyGSBW93iX8?media-id=jgtowyLpVV8lIopK5slPNKm1RjxpJZatZ2P8NlB0GxrOKqrCnMmAVYyGSBW93iX8&appid=wx678687fa5226e237",
+                            "status": 5,
+                            "soldNum": 0,
+                            "statusText": "销售中",
+                            "statusBigText": "售卖中",
+                            "editTime": 1604576107,
+                            "editStatus": 4,
+                            "editStatusText": "审核成功",
+                            "price": 7000,
+                            "totalStockNum": 999,
+                            "skuList": [
+                                {
+                                    "skuId": "8613197",
+                                    "price": 7000
+                                }
+                            ],
+                            "source": 1,
+                            "platformTitle": "小商店",
+                            "platformId": 0
+                        },
+                        {
+                            "key": 3391897,
+                            "productId": 3391897,
+                            "title": "中老年羊奶粉",
+                            "subTitle": "",
+                            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/YjHrp3fqBY_Wx3kzy_UCKuZ3DA9WZA9I7K7GnJMcLIW1Ra7sjaYWZ_L_D5LoX4WS?media-id=YjHrp3fqBY_Wx3kzy_UCKuZ3DA9WZA9I7K7GnJMcLIW1Ra7sjaYWZ_L_D5LoX4WS&appid=wx4b74228baa15489a",
+                            "status": 5,
+                            "soldNum": 0,
+                            "statusText": "销售中",
+                            "statusBigText": "售卖中",
+                            "editTime": 1605089686,
+                            "editStatus": 4,
+                            "editStatusText": "审核成功",
+                            "price": 18800,
+                            "totalStockNum": 999,
+                            "skuList": [
+                                {
+                                    "skuId": "9175320",
+                                    "price": 18800
+                                }
+                            ],
+                            "source": 1,
+                            "platformTitle": "小商店",
+                            "platformId": 0
+                        }
+                    ]
+                }
+            ],
+            "productList": [
+                {
+                    "key": 3098357,
+                    "productId": 3098357,
+                    "title": "超级冠营养米粉518g",
+                    "subTitle": "",
+                    "headImg": "https://snsdy.tc.qq.com/161/20304/snscosdownload/SZ/reserved/5fad28a40001a9a50000000023155f09000000a000004f50",
+                    "status": 5,
+                    "soldNum": 0,
+                    "statusText": "销售中",
+                    "statusBigText": "售卖中",
+                    "editTime": 1605194292,
+                    "editStatus": 4,
+                    "editStatusText": "审核成功",
+                    "price": 7800,
+                    "totalStockNum": 999,
+                    "skuList": [
+                        {
+                            "skuId": "9276045",
+                            "price": 7800
+                        }
+                    ],
+                    "source": 1,
+                    "platformTitle": "小商店",
+                    "platformId": 0
+                },
+                {
+                    "key": 3500590,
+                    "productId": 3500590,
+                    "title": "益生元蛋白质粉900g",
+                    "subTitle": "",
+                    "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/5pXv_nejrACyAnUyRpXcZ0PQDorfXWG79emcqUzGsqQICJ1kL0Q9jrp3fXSX9U3y?media-id=5pXv_nejrACyAnUyRpXcZ0PQDorfXWG79emcqUzGsqQICJ1kL0Q9jrp3fXSX9U3y&appid=wx678687fa5226e237",
+                    "status": 5,
+                    "soldNum": 0,
+                    "statusText": "销售中",
+                    "statusBigText": "售卖中",
+                    "editTime": 1605182758,
+                    "editStatus": 4,
+                    "editStatusText": "审核成功",
+                    "price": 9000,
+                    "totalStockNum": 999,
+                    "skuList": [
+                        {
+                            "skuId": "9263728",
+                            "price": 9000
+                        }
+                    ],
+                    "source": 1,
+                    "platformTitle": "小商店",
+                    "platformId": 0
+                },
+                {
+                    "key": 2780307,
+                    "productId": 2780307,
+                    "title": "营养米粉黄小米婴儿辅食250g盒装¥32.00",
+                    "subTitle": "",
+                    "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/xmKXsTwvZ0Z2ku7807d266e-zkgziIaR9OKZZpk_kcvtZGcMAHqWszrbUq_lICWv?media-id=xmKXsTwvZ0Z2ku7807d266e-zkgziIaR9OKZZpk_kcvtZGcMAHqWszrbUq_lICWv&appid=wx678687fa5226e237",
+                    "status": 5,
+                    "soldNum": 0,
+                    "statusText": "销售中",
+                    "statusBigText": "售卖中",
+                    "editTime": 1604576308,
+                    "editStatus": 4,
+                    "editStatusText": "审核成功",
+                    "price": 3200,
+                    "totalStockNum": 999,
+                    "skuList": [
+                        {
+                            "skuId": "8603656",
+                            "price": 3200
+                        }
+                    ],
+                    "source": 1,
+                    "platformTitle": "小商店",
+                    "platformId": 0
+                },
+                {
+                    "key": 3391897,
+                    "productId": 3391897,
+                    "title": "中老年羊奶粉",
+                    "subTitle": "",
+                    "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/YjHrp3fqBY_Wx3kzy_UCKuZ3DA9WZA9I7K7GnJMcLIW1Ra7sjaYWZ_L_D5LoX4WS?media-id=YjHrp3fqBY_Wx3kzy_UCKuZ3DA9WZA9I7K7GnJMcLIW1Ra7sjaYWZ_L_D5LoX4WS&appid=wx4b74228baa15489a",
+                    "status": 5,
+                    "soldNum": 0,
+                    "statusText": "销售中",
+                    "statusBigText": "售卖中",
+                    "editTime": 1605089686,
+                    "editStatus": 4,
+                    "editStatusText": "审核成功",
+                    "price": 18800,
+                    "totalStockNum": 999,
+                    "skuList": [
+                        {
+                            "skuId": "9175320",
+                            "price": 18800
+                        }
+                    ],
+                    "source": 1,
+                    "platformTitle": "小商店",
+                    "platformId": 0
+                },
+                {
+                    "key": 3132586,
+                    "productId": 3132586,
+                    "title": "金胚芽婴幼儿米粉300g",
+                    "subTitle": "",
+                    "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/BeUQRV-4hlpGPI5wMgo-9o0_GB6ubInpihbTp1Enccj6FOyGzPIdvIkmQqD6jFB3?media-id=BeUQRV-4hlpGPI5wMgo-9o0_GB6ubInpihbTp1Enccj6FOyGzPIdvIkmQqD6jFB3&appid=wx4bc7960451a867ae",
+                    "status": 5,
+                    "soldNum": 0,
+                    "statusText": "销售中",
+                    "statusBigText": "售卖中",
+                    "editTime": 1605236741,
+                    "editStatus": 4,
+                    "editStatusText": "审核成功",
+                    "price": 3600,
+                    "totalStockNum": 999,
+                    "skuList": [
+                        {
+                            "skuId": "8909114",
+                            "price": 3600
+                        }
+                    ],
+                    "source": 1,
+                    "platformTitle": "小商店",
+                    "platformId": 0
+                }
+            ]
+        },
+        {
+            "productId": [
+                1317023,
+                1321244,
+                1325014,
+                1439544,
+                2740521,
+                2744379,
+                2740577,
+                2736637,
+                2742363,
+                2751742,
+                2777850,
+                3386048,
+                3124860,
+                3141379,
+                3391897,
+                2777978,
+                3132586
+            ],
+            "catId": 5,
+            "catLevel": 1,
+            "fId": 0,
+            "isLeaf": false,
+            "name": "母婴育儿",
+            "weights": 2,
+            "children": [
+                {
+                    "productId": [
+                        2777850,
+                        2740577,
+                        1439544,
+                        2742363,
+                        1325014,
+                        1317023,
+                        973597,
+                        2740521,
+                        2744379,
+                        3386048
+                    ],
+                    "catId": 9,
+                    "catLevel": 2,
+                    "fId": 5,
+                    "isLeaf": true,
+                    "name": "奶粉",
+                    "weights": 1,
+                    "children": [],
+                    "productList": [
+                        {
+                            "key": 2777850,
+                            "productId": 2777850,
+                            "title": "羊羊羊婴儿奶粉120g",
+                            "subTitle": "",
+                            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/jG35zBYuahUYVWpNbprYpgyTseeSt2NZZKsXFvkdr1Gh1D-UAH8YEg2n_WT9aW5X?media-id=jG35zBYuahUYVWpNbprYpgyTseeSt2NZZKsXFvkdr1Gh1D-UAH8YEg2n_WT9aW5X&appid=wx678687fa5226e237",
+                            "status": 5,
+                            "soldNum": 3,
+                            "statusText": "销售中",
+                            "statusBigText": "售卖中",
+                            "editTime": 1604964026,
+                            "editStatus": 4,
+                            "editStatusText": "审核成功",
+                            "price": 6800,
+                            "totalStockNum": 996,
+                            "skuList": [
+                                {
+                                    "skuId": "8598165",
+                                    "price": 6800
+                                }
+                            ],
+                            "source": 1,
+                            "platformTitle": "小商店",
+                            "platformId": 0
+                        },
+                        {
+                            "key": 2740577,
+                            "productId": 2740577,
+                            "title": "金领婴儿配方奶粉",
+                            "subTitle": "",
+                            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/CT04SNMRQo-ms9D_-HVnaJgBc5ge2Z-xRKFbd5NWBQabu5HS3GCEBEfjrsYRpXX3?media-id=CT04SNMRQo-ms9D_-HVnaJgBc5ge2Z-xRKFbd5NWBQabu5HS3GCEBEfjrsYRpXX3&appid=wx8a2097f288bfab20",
+                            "status": 5,
+                            "soldNum": 0,
+                            "statusText": "销售中",
+                            "statusBigText": "售卖中",
+                            "editTime": 1604546424,
+                            "editStatus": 4,
+                            "editStatusText": "审核成功",
+                            "price": 22500,
+                            "totalStockNum": 11997,
+                            "skuList": [
+                                {
+                                    "skuId": "8554859",
+                                    "price": 22500
+                                },
+                                {
+                                    "skuId": "8560083",
+                                    "price": 22500
+                                },
+                                {
+                                    "skuId": "8550924",
+                                    "price": 22500
+                                }
+                            ],
+                            "source": 1,
+                            "platformTitle": "小商店",
+                            "platformId": 0
+                        },
+                        {
+                            "key": 1439544,
+                            "productId": 1439544,
+                            "title": "爱他美配方奶粉",
+                            "subTitle": "",
+                            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/JELY2p6GBW7apDrqVxzo6YTNptThYHMtD30evZRjbJr6336csJJAdW_rdknQWy5d?media-id=JELY2p6GBW7apDrqVxzo6YTNptThYHMtD30evZRjbJr6336csJJAdW_rdknQWy5d&appid=wxe9714e742209d35f",
+                            "status": 11,
+                            "soldNum": 0,
+                            "statusText": "自主下架",
+                            "statusBigText": "已下架",
+                            "editTime": 1603333024,
+                            "editStatus": 1,
+                            "editStatusText": "",
+                            "price": 4294967295,
+                            "totalStockNum": 0,
+                            "skuList": [],
+                            "source": 1,
+                            "platformTitle": "小商店",
+                            "platformId": 0
+                        },
+                        {
+                            "key": 2742363,
+                            "productId": 2742363,
+                            "title": "美素佳儿皇家婴儿配方奶粉800g",
+                            "subTitle": "",
+                            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/Om59cUcou-AS_a6y1y2FSisEEf3V4NWx7t9fSf0_6GXouPfK4uulRK39_xjxGo6z?media-id=Om59cUcou-AS_a6y1y2FSisEEf3V4NWx7t9fSf0_6GXouPfK4uulRK39_xjxGo6z&appid=wx91d27dbf599dff74",
+                            "status": 5,
+                            "soldNum": 0,
+                            "statusText": "销售中",
+                            "statusBigText": "售卖中",
+                            "editTime": 1604832200,
+                            "editStatus": 4,
+                            "editStatusText": "审核成功",
+                            "price": 39600,
+                            "totalStockNum": 2997,
+                            "skuList": [
+                                {
+                                    "skuId": "8558523",
+                                    "price": 39600
+                                },
+                                {
+                                    "skuId": "8550970",
+                                    "price": 39600
+                                },
+                                {
+                                    "skuId": "8567653",
+                                    "price": 39600
+                                }
+                            ],
+                            "source": 1,
+                            "platformTitle": "小商店",
+                            "platformId": 0
+                        },
+                        {
+                            "key": 1325014,
+                            "productId": 1325014,
+                            "title": "爱他美配方奶粉",
+                            "subTitle": "",
+                            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/JELY2p6GBW7apDrqVxzo6YTNptThYHMtD30evZRjbJr6336csJJAdW_rdknQWy5d?media-id=JELY2p6GBW7apDrqVxzo6YTNptThYHMtD30evZRjbJr6336csJJAdW_rdknQWy5d&appid=wxe9714e742209d35f",
+                            "status": 11,
+                            "soldNum": 0,
+                            "statusText": "自主下架",
+                            "statusBigText": "已下架",
+                            "editTime": 1603156881,
+                            "editStatus": 1,
+                            "editStatusText": "",
+                            "price": 26800,
+                            "totalStockNum": 999,
+                            "skuList": [
+                                {
+                                    "skuId": "7469958",
+                                    "price": 26800
+                                }
+                            ],
+                            "source": 1,
+                            "platformTitle": "小商店",
+                            "platformId": 0
+                        }
+                    ]
+                },
+                {
+                    "productId": [
+                        2780307,
+                        2785339,
+                        2777978,
+                        3141379,
+                        3399521,
+                        3098357,
+                        3500590,
+                        3132586
+                    ],
+                    "catId": 10,
+                    "catLevel": 2,
+                    "fId": 5,
+                    "isLeaf": true,
+                    "name": "辅食",
+                    "weights": 2,
+                    "children": [],
+                    "productList": [
+                        {
+                            "key": 2780307,
+                            "productId": 2780307,
+                            "title": "营养米粉黄小米婴儿辅食250g盒装¥32.00",
+                            "subTitle": "",
+                            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/xmKXsTwvZ0Z2ku7807d266e-zkgziIaR9OKZZpk_kcvtZGcMAHqWszrbUq_lICWv?media-id=xmKXsTwvZ0Z2ku7807d266e-zkgziIaR9OKZZpk_kcvtZGcMAHqWszrbUq_lICWv&appid=wx678687fa5226e237",
+                            "status": 5,
+                            "soldNum": 0,
+                            "statusText": "销售中",
+                            "statusBigText": "售卖中",
+                            "editTime": 1604576308,
+                            "editStatus": 4,
+                            "editStatusText": "审核成功",
+                            "price": 3200,
+                            "totalStockNum": 999,
+                            "skuList": [
+                                {
+                                    "skuId": "8603656",
+                                    "price": 3200
+                                }
+                            ],
+                            "source": 1,
+                            "platformTitle": "小商店",
+                            "platformId": 0
+                        },
+                        {
+                            "key": 2785339,
+                            "productId": 2785339,
+                            "title": "贝之翼纯有机米粉婴儿辅食奶粉伴侣450g罐装¥78",
+                            "subTitle": "",
+                            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/NSk1ApQnX4JM0wglC_S2DPAful_7a0Qv6wdy8rXbBFDnguVRljvgo_n-uX1y1U3v?media-id=NSk1ApQnX4JM0wglC_S2DPAful_7a0Qv6wdy8rXbBFDnguVRljvgo_n-uX1y1U3v&appid=wx678687fa5226e237",
+                            "status": 5,
+                            "soldNum": 0,
+                            "statusText": "销售中",
+                            "statusBigText": "售卖中",
+                            "editTime": 1604576209,
+                            "editStatus": 4,
+                            "editStatusText": "审核成功",
+                            "price": 7800,
+                            "totalStockNum": 999,
+                            "skuList": [
+                                {
+                                    "skuId": "8611255",
+                                    "price": 7800
+                                }
+                            ],
+                            "source": 1,
+                            "platformTitle": "小商店",
+                            "platformId": 0
+                        },
+                        {
+                            "key": 2777978,
+                            "productId": 2777978,
+                            "title": "贝之翼黄小米婴儿辅食宝宝口粮500g",
+                            "subTitle": "",
+                            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/jgtowyLpVV8lIopK5slPNKm1RjxpJZatZ2P8NlB0GxrOKqrCnMmAVYyGSBW93iX8?media-id=jgtowyLpVV8lIopK5slPNKm1RjxpJZatZ2P8NlB0GxrOKqrCnMmAVYyGSBW93iX8&appid=wx678687fa5226e237",
+                            "status": 5,
+                            "soldNum": 0,
+                            "statusText": "销售中",
+                            "statusBigText": "售卖中",
+                            "editTime": 1604576107,
+                            "editStatus": 4,
+                            "editStatusText": "审核成功",
+                            "price": 7000,
+                            "totalStockNum": 999,
+                            "skuList": [
+                                {
+                                    "skuId": "8613197",
+                                    "price": 7000
+                                }
+                            ],
+                            "source": 1,
+                            "platformTitle": "小商店",
+                            "platformId": 0
+                        },
+                        {
+                            "key": 3141379,
+                            "productId": 3141379,
+                            "title": "贝因美Beingmate婴儿米粉",
+                            "subTitle": "",
+                            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/XTvK55QokKnqYIvkNOZvr7cGbqMU_XMuopM1kg9l4l0g5GxSDziz2kVEUzbDT69f?media-id=XTvK55QokKnqYIvkNOZvr7cGbqMU_XMuopM1kg9l4l0g5GxSDziz2kVEUzbDT69f&appid=wx91d27dbf599dff74",
+                            "status": 11,
+                            "soldNum": 0,
+                            "statusText": "自主下架",
+                            "statusBigText": "已下架",
+                            "editTime": 1605062311,
+                            "editStatus": 1,
+                            "editStatusText": "",
+                            "price": 5700,
+                            "totalStockNum": 4995,
+                            "skuList": [
+                                {
+                                    "skuId": "8888701",
+                                    "price": 5700
+                                },
+                                {
+                                    "skuId": "8905164",
+                                    "price": 5700
+                                },
+                                {
+                                    "skuId": "8898341",
+                                    "price": 5700
+                                },
+                                {
+                                    "skuId": "8901725",
+                                    "price": 5700
+                                },
+                                {
+                                    "skuId": "8886990",
+                                    "price": 5700
+                                }
+                            ],
+                            "source": 1,
+                            "platformTitle": "小商店",
+                            "platformId": 0
+                        },
+                        {
+                            "key": 3399521,
+                            "productId": 3399521,
+                            "title": "婴幼儿米粉",
+                            "subTitle": "",
+                            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/QkAXkGh_MY6LBapIo8XQlqKy63mOP0h7LXzlzTvNa-8qin8FJb0cQJ4M9CYQgPt5?media-id=QkAXkGh_MY6LBapIo8XQlqKy63mOP0h7LXzlzTvNa-8qin8FJb0cQJ4M9CYQgPt5&appid=wx4bc7960451a867ae",
+                            "status": 6,
+                            "soldNum": 0,
+                            "statusText": "最近删除",
+                            "statusBigText": "已删除",
+                            "editTime": 1605088954,
+                            "editStatus": 1,
+                            "editStatusText": "",
+                            "price": 4000,
+                            "totalStockNum": 999,
+                            "skuList": [
+                                {
+                                    "skuId": "9168079",
+                                    "price": 4000
+                                }
+                            ],
+                            "source": 1,
+                            "platformTitle": "小商店",
+                            "platformId": 0
+                        }
+                    ]
+                }
+            ],
+            "productList": [
+                {
+                    "key": 1317023,
+                    "productId": 1317023,
+                    "title": "飞鹤婴儿配方奶粉",
+                    "subTitle": "",
+                    "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/LBjAPGhoBi237oNyex1H0FhB9_Jt0eZ_hTQYCML9eFZaHDe-Cs1tV6wgWd9tR87u?media-id=LBjAPGhoBi237oNyex1H0FhB9_Jt0eZ_hTQYCML9eFZaHDe-Cs1tV6wgWd9tR87u&appid=wx2c348cf579062e56",
+                    "status": 5,
+                    "soldNum": 0,
+                    "statusText": "销售中",
+                    "statusBigText": "售卖中",
+                    "editTime": 1603112080,
+                    "editStatus": 4,
+                    "editStatusText": "审核成功",
+                    "price": 24900,
+                    "totalStockNum": 2997,
+                    "skuList": [
+                        {
+                            "skuId": "7440968",
+                            "price": 24900
+                        },
+                        {
+                            "skuId": "7453980",
+                            "price": 24900
+                        },
+                        {
+                            "skuId": "7459188",
+                            "price": 24900
+                        }
+                    ],
+                    "source": 1,
+                    "platformTitle": "小商店",
+                    "platformId": 0
+                },
+                {
+                    "key": 1321244,
+                    "productId": 1321244,
+                    "title": "启赋幼儿配方奶粉",
+                    "subTitle": "",
+                    "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/MNKQw57_qj6DENEsi0_3BhhoHiaWUMx6eLww0jWWB__5Ndo-OJc7TNLXXocUEpFi?media-id=MNKQw57_qj6DENEsi0_3BhhoHiaWUMx6eLww0jWWB__5Ndo-OJc7TNLXXocUEpFi&appid=wxc3bb8c8b99453161",
+                    "status": 5,
+                    "soldNum": 0,
+                    "statusText": "销售中",
+                    "statusBigText": "售卖中",
+                    "editTime": 1603156235,
+                    "editStatus": 4,
+                    "editStatusText": "审核成功",
+                    "price": 42900,
+                    "totalStockNum": 999,
+                    "skuList": [
+                        {
+                            "skuId": "7464492",
+                            "price": 42900
+                        }
+                    ],
+                    "source": 1,
+                    "platformTitle": "小商店",
+                    "platformId": 0
+                },
+                {
+                    "key": 1325014,
+                    "productId": 1325014,
+                    "title": "爱他美配方奶粉",
+                    "subTitle": "",
+                    "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/JELY2p6GBW7apDrqVxzo6YTNptThYHMtD30evZRjbJr6336csJJAdW_rdknQWy5d?media-id=JELY2p6GBW7apDrqVxzo6YTNptThYHMtD30evZRjbJr6336csJJAdW_rdknQWy5d&appid=wxe9714e742209d35f",
+                    "status": 11,
+                    "soldNum": 0,
+                    "statusText": "自主下架",
+                    "statusBigText": "已下架",
+                    "editTime": 1603156881,
+                    "editStatus": 1,
+                    "editStatusText": "",
+                    "price": 26800,
+                    "totalStockNum": 999,
+                    "skuList": [
+                        {
+                            "skuId": "7469958",
+                            "price": 26800
+                        }
+                    ],
+                    "source": 1,
+                    "platformTitle": "小商店",
+                    "platformId": 0
+                },
+                {
+                    "key": 1439544,
+                    "productId": 1439544,
+                    "title": "爱他美配方奶粉",
+                    "subTitle": "",
+                    "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/JELY2p6GBW7apDrqVxzo6YTNptThYHMtD30evZRjbJr6336csJJAdW_rdknQWy5d?media-id=JELY2p6GBW7apDrqVxzo6YTNptThYHMtD30evZRjbJr6336csJJAdW_rdknQWy5d&appid=wxe9714e742209d35f",
+                    "status": 11,
+                    "soldNum": 0,
+                    "statusText": "自主下架",
+                    "statusBigText": "已下架",
+                    "editTime": 1603333024,
+                    "editStatus": 1,
+                    "editStatusText": "",
+                    "price": 4294967295,
+                    "totalStockNum": 0,
+                    "skuList": [],
+                    "source": 1,
+                    "platformTitle": "小商店",
+                    "platformId": 0
+                },
+                {
+                    "key": 2740521,
+                    "productId": 2740521,
+                    "title": "麦蔻乐享幼儿配方奶粉",
+                    "subTitle": "",
+                    "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/3dpUdFuJZcoK9bwI3jCkskio7BQRC-sag0zbYwUKKQ18exSJvXouqar5z_lgQsZk?media-id=3dpUdFuJZcoK9bwI3jCkskio7BQRC-sag0zbYwUKKQ18exSJvXouqar5z_lgQsZk&appid=wxf5c23456c9dae7c9",
+                    "status": 5,
+                    "soldNum": 0,
+                    "statusText": "销售中",
+                    "statusBigText": "售卖中",
+                    "editTime": 1604545965,
+                    "editStatus": 4,
+                    "editStatusText": "审核成功",
+                    "price": 36800,
+                    "totalStockNum": 2997,
+                    "skuList": [
+                        {
+                            "skuId": "8554794",
+                            "price": 36800
+                        },
+                        {
+                            "skuId": "8554795",
+                            "price": 36800
+                        },
+                        {
+                            "skuId": "8573023",
+                            "price": 36800
+                        }
+                    ],
+                    "source": 1,
+                    "platformTitle": "小商店",
+                    "platformId": 0
+                }
+            ]
+        },
+        {
+            "productId": [
+                1004929,
+                993193,
+                993189,
+                997071,
+                991002,
+                1837319,
+                1845064,
+                1843083
+            ],
+            "catId": 7,
+            "catLevel": 1,
+            "fId": 0,
+            "isLeaf": false,
+            "name": "香肤润发",
+            "weights": 3,
+            "children": [
+                {
+                    "productId": [
+                        1837319,
+                        1845064,
+                        1843083
+                    ],
+                    "catId": 11,
+                    "catLevel": 2,
+                    "fId": 7,
+                    "isLeaf": true,
+                    "name": "洗发",
+                    "weights": 1,
+                    "children": [],
+                    "productList": [
+                        {
+                            "key": 1837319,
+                            "productId": 1837319,
+                            "title": "阿道夫轻柔洗发乳",
+                            "subTitle": "",
+                            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/UBshrlgo0kVl-_LpcShwtZoFwHoEIiSiz9hlIS_nwTVgYsGZXRCjhdueF0KSdLPf?media-id=UBshrlgo0kVl-_LpcShwtZoFwHoEIiSiz9hlIS_nwTVgYsGZXRCjhdueF0KSdLPf&appid=wxcdc13dc8495e174e",
+                            "status": 5,
+                            "soldNum": 0,
+                            "statusText": "销售中",
+                            "statusBigText": "售卖中",
+                            "editTime": 1603674184,
+                            "editStatus": 4,
+                            "editStatusText": "审核成功",
+                            "price": 5800,
+                            "totalStockNum": 999,
+                            "skuList": [
+                                {
+                                    "skuId": "7873715",
+                                    "price": 5800
+                                }
+                            ],
+                            "source": 1,
+                            "platformTitle": "小商店",
+                            "platformId": 0
+                        },
+                        {
+                            "key": 1845064,
+                            "productId": 1845064,
+                            "title": "潘婷护发素",
+                            "subTitle": "",
+                            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/hCgTANyGjF_yxxvTOTw9vWnIUr0-G7ju9BEb7NE9jQpFv64ZuEdg1lLJySYAzyCW?media-id=hCgTANyGjF_yxxvTOTw9vWnIUr0-G7ju9BEb7NE9jQpFv64ZuEdg1lLJySYAzyCW&appid=wx681b1e78da02dd16",
+                            "status": 5,
+                            "soldNum": 0,
+                            "statusText": "销售中",
+                            "statusBigText": "售卖中",
+                            "editTime": 1603674268,
+                            "editStatus": 4,
+                            "editStatusText": "审核成功",
+                            "price": 3800,
+                            "totalStockNum": 999,
+                            "skuList": [
+                                {
+                                    "skuId": "7872107",
+                                    "price": 3800
+                                }
+                            ],
+                            "source": 1,
+                            "platformTitle": "小商店",
+                            "platformId": 0
+                        },
+                        {
+                            "key": 1843083,
+                            "productId": 1843083,
+                            "title": "海飞丝洗发水",
+                            "subTitle": "",
+                            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/bYpG_6c_yZyiqLNVJF2lqQwPL7JceOsMVxs1BNY8XNV5OJUYtIlsQH8cojsDfZP2?media-id=bYpG_6c_yZyiqLNVJF2lqQwPL7JceOsMVxs1BNY8XNV5OJUYtIlsQH8cojsDfZP2&appid=wxbe273848adfb7003",
+                            "status": 5,
+                            "soldNum": 0,
+                            "statusText": "销售中",
+                            "statusBigText": "售卖中",
+                            "editTime": 1603674225,
+                            "editStatus": 4,
+                            "editStatusText": "审核成功",
+                            "price": 11400,
+                            "totalStockNum": 999,
+                            "skuList": [
+                                {
+                                    "skuId": "7872106",
+                                    "price": 11400
+                                }
+                            ],
+                            "source": 1,
+                            "platformTitle": "小商店",
+                            "platformId": 0
+                        }
+                    ]
+                },
+                {
+                    "productId": [
+                        1004929
+                    ],
+                    "catId": 12,
+                    "catLevel": 2,
+                    "fId": 7,
+                    "isLeaf": true,
+                    "name": "护肤",
+                    "weights": 2,
+                    "children": [],
+                    "productList": [
+                        {
+                            "key": 1004929,
+                            "productId": 1004929,
+                            "title": "蓝月亮抑菌洗手液",
+                            "subTitle": "",
+                            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/vM8Jud2SOJxiVIMtgUrRWBZZTvv_U3pZxRu7KXXlJQIwRkuYxIByj1cx_VTIOTqI?media-id=vM8Jud2SOJxiVIMtgUrRWBZZTvv_U3pZxRu7KXXlJQIwRkuYxIByj1cx_VTIOTqI&appid=wxca1fe42a16552094",
+                            "status": 11,
+                            "soldNum": 0,
+                            "statusText": "自主下架",
+                            "statusBigText": "已下架",
+                            "editTime": 1601808064,
+                            "editStatus": 1,
+                            "editStatusText": "",
+                            "price": 890,
+                            "totalStockNum": 99,
+                            "skuList": [
+                                {
+                                    "skuId": "6180793",
+                                    "price": 890
+                                }
+                            ],
+                            "source": 1,
+                            "platformTitle": "小商店",
+                            "platformId": 0
+                        }
+                    ]
+                }
+            ],
+            "productList": [
+                {
+                    "key": 1004929,
+                    "productId": 1004929,
+                    "title": "蓝月亮抑菌洗手液",
+                    "subTitle": "",
+                    "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/vM8Jud2SOJxiVIMtgUrRWBZZTvv_U3pZxRu7KXXlJQIwRkuYxIByj1cx_VTIOTqI?media-id=vM8Jud2SOJxiVIMtgUrRWBZZTvv_U3pZxRu7KXXlJQIwRkuYxIByj1cx_VTIOTqI&appid=wxca1fe42a16552094",
+                    "status": 11,
+                    "soldNum": 0,
+                    "statusText": "自主下架",
+                    "statusBigText": "已下架",
+                    "editTime": 1601808064,
+                    "editStatus": 1,
+                    "editStatusText": "",
+                    "price": 890,
+                    "totalStockNum": 99,
+                    "skuList": [
+                        {
+                            "skuId": "6180793",
+                            "price": 890
+                        }
+                    ],
+                    "source": 1,
+                    "platformTitle": "小商店",
+                    "platformId": 0
+                },
+                {
+                    "key": 993193,
+                    "productId": 993193,
+                    "title": "魅肤沐浴露",
+                    "subTitle": "",
+                    "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/kmUthQw2H4RW7JJ6G5eVYrxNEQG30gjToqXwCbtCrb-DGlX8II2JiYDPQ21xwjQw?media-id=kmUthQw2H4RW7JJ6G5eVYrxNEQG30gjToqXwCbtCrb-DGlX8II2JiYDPQ21xwjQw&appid=wx681b1e78da02dd16",
+                    "status": 11,
+                    "soldNum": 0,
+                    "statusText": "自主下架",
+                    "statusBigText": "已下架",
+                    "editTime": 1601806680,
+                    "editStatus": 1,
+                    "editStatusText": "",
+                    "price": 3990,
+                    "totalStockNum": 99,
+                    "skuList": [
+                        {
+                            "skuId": "6180707",
+                            "price": 3990
+                        }
+                    ],
+                    "source": 1,
+                    "platformTitle": "小商店",
+                    "platformId": 0
+                },
+                {
+                    "key": 993189,
+                    "productId": 993189,
+                    "title": "自然堂CHANDO卸妆水",
+                    "subTitle": "",
+                    "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/RifgGrN7ULa2VvPyimX9vzgpw3U56RQ0XtSfRHuc2JyZX8YY-WY-UNi09aD3H_lZ?media-id=RifgGrN7ULa2VvPyimX9vzgpw3U56RQ0XtSfRHuc2JyZX8YY-WY-UNi09aD3H_lZ&appid=wx6a9c6bb5caea3512",
+                    "status": 11,
+                    "soldNum": 0,
+                    "statusText": "自主下架",
+                    "statusBigText": "已下架",
+                    "editTime": 1601806518,
+                    "editStatus": 1,
+                    "editStatusText": "",
+                    "price": 6200,
+                    "totalStockNum": 99,
+                    "skuList": [
+                        {
+                            "skuId": "6195750",
+                            "price": 6200
+                        }
+                    ],
+                    "source": 1,
+                    "platformTitle": "小商店",
+                    "platformId": 0
+                },
+                {
+                    "key": 997071,
+                    "productId": 997071,
+                    "title": "ABC卫生洗液",
+                    "subTitle": "",
+                    "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/YVh_H7d93s4qrDxPY1mHUXtj2k0KoccH9UTZQ7p_6uwA_3vizKLdmAlbjlnqui0U?media-id=YVh_H7d93s4qrDxPY1mHUXtj2k0KoccH9UTZQ7p_6uwA_3vizKLdmAlbjlnqui0U&appid=wxca1fe42a16552094",
+                    "status": 11,
+                    "soldNum": 0,
+                    "statusText": "自主下架",
+                    "statusBigText": "已下架",
+                    "editTime": 1601806261,
+                    "editStatus": 1,
+                    "editStatusText": "",
+                    "price": 990,
+                    "totalStockNum": 99,
+                    "skuList": [
+                        {
+                            "skuId": "6188382",
+                            "price": 990
+                        }
+                    ],
+                    "source": 1,
+                    "platformTitle": "小商店",
+                    "platformId": 0
+                },
+                {
+                    "key": 991002,
+                    "productId": 991002,
+                    "title": "蓝月亮滋润洗手液",
+                    "subTitle": "",
+                    "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/2Qrp_Sm6MOZ-hIoM25JpdFGActyJl0q9CSC-v8f30sZvHYyKf8Ey0Vc4WoOkxA4H?media-id=2Qrp_Sm6MOZ-hIoM25JpdFGActyJl0q9CSC-v8f30sZvHYyKf8Ey0Vc4WoOkxA4H&appid=wx1f6afec656a4b7e4",
+                    "status": 11,
+                    "soldNum": 0,
+                    "statusText": "自主下架",
+                    "statusBigText": "已下架",
+                    "editTime": 1601806589,
+                    "editStatus": 1,
+                    "editStatusText": "",
+                    "price": 1989,
+                    "totalStockNum": 99,
+                    "skuList": [
+                        {
+                            "skuId": "6180703",
+                            "price": 1989
+                        }
+                    ],
+                    "source": 1,
+                    "platformTitle": "小商店",
+                    "platformId": 0
+                }
+            ]
+        },
+        {
+            "productId": [
+                1640739,
+                1142871,
+                1268208,
+                1263110,
+                1268204,
+                1251455,
+                1263108,
+                1266676,
+                1249861,
+                1257384,
+                1203389,
+                1207547,
+                1213165,
+                1220396,
+                1205395,
+                1216783,
+                1203431,
+                1220391,
+                995338,
+                1263113,
+                986296,
+                992259,
+                988297,
+                984456,
+                1640735,
+                1255545,
+                996249,
+                992404,
+                988301,
+                986283,
+                997069,
+                3638416,
+                3624873,
+                3640098,
+                3628789,
+                3643703,
+                3626738,
+                3649287,
+                3674234,
+                3641963,
+                3643711,
+                3638300
+            ],
+            "catId": 4,
+            "catLevel": 1,
+            "fId": 0,
+            "isLeaf": true,
+            "name": "方便美味",
+            "weights": 4,
+            "children": [],
+            "productList": [
+                {
+                    "key": 1640739,
+                    "productId": 1640739,
+                    "title": "卫龙辣条",
+                    "subTitle": "",
+                    "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/Gn4qrovjddtEr8L0JY85FJQpuWz2c4JLcFbbYA8OB5kxhEyV1fLAKoc8BDOlPyrD?media-id=Gn4qrovjddtEr8L0JY85FJQpuWz2c4JLcFbbYA8OB5kxhEyV1fLAKoc8BDOlPyrD&appid=wxba0f8fa98693c52c",
+                    "status": 5,
+                    "soldNum": 0,
+                    "statusText": "销售中",
+                    "statusBigText": "售卖中",
+                    "editTime": 1603496187,
+                    "editStatus": 4,
+                    "editStatusText": "审核成功",
+                    "price": 100,
+                    "totalStockNum": 999,
+                    "skuList": [
+                        {
+                            "skuId": "7746913",
+                            "price": 100
+                        }
+                    ],
+                    "source": 1,
+                    "platformTitle": "小商店",
+                    "platformId": 0
+                },
+                {
+                    "key": 1142871,
+                    "productId": 1142871,
+                    "title": "康师傅红烧牛肉方便面",
+                    "subTitle": "",
+                    "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/yJJoOj8U85DT11U-VCcWza7_KdUmUp9TcOIMwoLvqywygRS0t3ExGpa_ZxIKkk3d?media-id=yJJoOj8U85DT11U-VCcWza7_KdUmUp9TcOIMwoLvqywygRS0t3ExGpa_ZxIKkk3d&appid=wxcf0b7d1e5640776f",
+                    "status": 5,
+                    "soldNum": 0,
+                    "statusText": "销售中",
+                    "statusBigText": "售卖中",
+                    "editTime": 1603496285,
+                    "editStatus": 4,
+                    "editStatusText": "审核成功",
+                    "price": 500,
+                    "totalStockNum": 999,
+                    "skuList": [
+                        {
+                            "skuId": "6712665",
+                            "price": 500
+                        }
+                    ],
+                    "source": 1,
+                    "platformTitle": "小商店",
+                    "platformId": 0
+                },
+                {
+                    "key": 1268208,
+                    "productId": 1268208,
+                    "title": "薯愿好丽友薯片",
+                    "subTitle": "",
+                    "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/Esp7oNUKkWZ8CxLvZqBJIloWR_vmbOLNOAX0wRn5e99IRjgyJK0eixyI_w0IA0Ea?media-id=Esp7oNUKkWZ8CxLvZqBJIloWR_vmbOLNOAX0wRn5e99IRjgyJK0eixyI_w0IA0Ea&appid=wxd1ba3d0937058e6f",
+                    "status": 5,
+                    "soldNum": 0,
+                    "statusText": "销售中",
+                    "statusBigText": "售卖中",
+                    "editTime": 1602892335,
+                    "editStatus": 4,
+                    "editStatusText": "审核成功",
+                    "price": 1590,
+                    "totalStockNum": 999,
+                    "skuList": [
+                        {
+                            "skuId": "7254242",
+                            "price": 1590
+                        }
+                    ],
+                    "source": 1,
+                    "platformTitle": "小商店",
+                    "platformId": 0
+                },
+                {
+                    "key": 1263110,
+                    "productId": 1263110,
+                    "title": "乌江清淡榨菜",
+                    "subTitle": "",
+                    "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/rNg7cikBi_fcf21GGA5zK4i7o3fitwQiksSF0PGKMGhxiFcUSvP13iZirOXbBM6M?media-id=rNg7cikBi_fcf21GGA5zK4i7o3fitwQiksSF0PGKMGhxiFcUSvP13iZirOXbBM6M&appid=wxa63f21c6a752de4e",
+                    "status": 5,
+                    "soldNum": 0,
+                    "statusText": "销售中",
+                    "statusBigText": "售卖中",
+                    "editTime": 1602892288,
+                    "editStatus": 4,
+                    "editStatusText": "审核成功",
+                    "price": 200,
+                    "totalStockNum": 999,
+                    "skuList": [
+                        {
+                            "skuId": "7265714",
+                            "price": 200
+                        }
+                    ],
+                    "source": 1,
+                    "platformTitle": "小商店",
+                    "platformId": 0
+                },
+                {
+                    "key": 1268204,
+                    "productId": 1268204,
+                    "title": "乐事无限薯片",
+                    "subTitle": "",
+                    "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/jeSoZUCapEEZ2YeAUSmOiYv5Kev540dW48GAxfHyEOjQlVbyixjiCcjSDGZP1B0t?media-id=jeSoZUCapEEZ2YeAUSmOiYv5Kev540dW48GAxfHyEOjQlVbyixjiCcjSDGZP1B0t&appid=wx587fbcd7b8fed3e0",
+                    "status": 5,
+                    "soldNum": 0,
+                    "statusText": "销售中",
+                    "statusBigText": "售卖中",
+                    "editTime": 1602892232,
+                    "editStatus": 4,
+                    "editStatusText": "审核成功",
+                    "price": 850,
+                    "totalStockNum": 999,
+                    "skuList": [
+                        {
+                            "skuId": "7255847",
+                            "price": 850
+                        }
+                    ],
+                    "source": 1,
+                    "platformTitle": "小商店",
+                    "platformId": 0
+                }
+            ]
+        },
+        {
+            "productId": [
+                3580253,
+                3599048,
+                3597222,
+                3595299,
+                3613971,
+                3581988,
+                3586893,
+                2360595
+            ],
+            "catId": 17,
+            "catLevel": 1,
+            "fId": 0,
+            "isLeaf": true,
+            "name": "米面粮油",
+            "weights": 5,
+            "children": [],
+            "productList": [
+                {
+                    "key": 3580253,
+                    "productId": 3580253,
+                    "title": "陈克明挂面",
+                    "subTitle": "",
+                    "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/Ii_PdUeGdPT5yAOTH22O54hBpoFnXQUlD07Kw19a-x4ZGDhOTA_75YcWgsFO7Hdn?media-id=Ii_PdUeGdPT5yAOTH22O54hBpoFnXQUlD07Kw19a-x4ZGDhOTA_75YcWgsFO7Hdn&appid=wxe15848b03b25ac5c",
+                    "status": 5,
+                    "soldNum": 0,
+                    "statusText": "销售中",
+                    "statusBigText": "售卖中",
+                    "editTime": 1605245350,
+                    "editStatus": 4,
+                    "editStatusText": "审核成功",
+                    "price": 800,
+                    "totalStockNum": 999,
+                    "skuList": [
+                        {
+                            "skuId": "9302654",
+                            "price": 800
+                        }
+                    ],
+                    "source": 1,
+                    "platformTitle": "小商店",
+                    "platformId": 0
+                },
+                {
+                    "key": 3599048,
+                    "productId": 3599048,
+                    "title": "厨邦酱油",
+                    "subTitle": "",
+                    "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/trI4LXgujn4kx1HDJ64eMfRlvOfPgSjChTJeG8_mmCAObxMLeQfczgka6x2yhWa7?media-id=trI4LXgujn4kx1HDJ64eMfRlvOfPgSjChTJeG8_mmCAObxMLeQfczgka6x2yhWa7&appid=wx1155b957ac23d82e",
+                    "status": 5,
+                    "soldNum": 0,
+                    "statusText": "销售中",
+                    "statusBigText": "售卖中",
+                    "editTime": 1605245557,
+                    "editStatus": 4,
+                    "editStatusText": "审核成功",
+                    "price": 990,
+                    "totalStockNum": 999,
+                    "skuList": [
+                        {
+                            "skuId": "9311788",
+                            "price": 990
+                        }
+                    ],
+                    "source": 1,
+                    "platformTitle": "小商店",
+                    "platformId": 0
+                },
+                {
+                    "key": 3597222,
+                    "productId": 3597222,
+                    "title": "吉得利调料",
+                    "subTitle": "",
+                    "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/0WF1L0oqyIA6QGc4TiW7TwHvNDsUNBXKIEKGt14hPW8RuAKiuHUd-SOmfPcnCNHx?media-id=0WF1L0oqyIA6QGc4TiW7TwHvNDsUNBXKIEKGt14hPW8RuAKiuHUd-SOmfPcnCNHx&appid=wx91d27dbf599dff74",
+                    "status": 5,
+                    "soldNum": 0,
+                    "statusText": "销售中",
+                    "statusBigText": "售卖中",
+                    "editTime": 1605245859,
+                    "editStatus": 4,
+                    "editStatusText": "审核成功",
+                    "price": 600,
+                    "totalStockNum": 999,
+                    "skuList": [
+                        {
+                            "skuId": "9298887",
+                            "price": 600
+                        }
+                    ],
+                    "source": 1,
+                    "platformTitle": "小商店",
+                    "platformId": 0
+                },
+                {
+                    "key": 3595299,
+                    "productId": 3595299,
+                    "title": "太太乐酱油",
+                    "subTitle": "",
+                    "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/cKs1T93l4jv__64GyWkI9Lus6ZGFu8HpwRfN_i-4g_ImEc16vMSFvDhkLAdS2eZp?media-id=cKs1T93l4jv__64GyWkI9Lus6ZGFu8HpwRfN_i-4g_ImEc16vMSFvDhkLAdS2eZp&appid=wx91d27dbf599dff74",
+                    "status": 5,
+                    "soldNum": 0,
+                    "statusText": "销售中",
+                    "statusBigText": "售卖中",
+                    "editTime": 1605245628,
+                    "editStatus": 4,
+                    "editStatusText": "审核成功",
+                    "price": 1880,
+                    "totalStockNum": 999,
+                    "skuList": [
+                        {
+                            "skuId": "9292935",
+                            "price": 1880
+                        }
+                    ],
+                    "source": 1,
+                    "platformTitle": "小商店",
+                    "platformId": 0
+                },
+                {
+                    "key": 3613971,
+                    "productId": 3613971,
+                    "title": "鸿兴水煮鱼片调料",
+                    "subTitle": "",
+                    "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/JY_yOR_qF90HiYWH0UMfQV7ICdlWx_d8r6j06lOVPkYGyphho1jS2YNAtXsOLlPi?media-id=JY_yOR_qF90HiYWH0UMfQV7ICdlWx_d8r6j06lOVPkYGyphho1jS2YNAtXsOLlPi&appid=wx681b1e78da02dd16",
+                    "status": 5,
+                    "soldNum": 0,
+                    "statusText": "销售中",
+                    "statusBigText": "售卖中",
+                    "editTime": 1605263897,
+                    "editStatus": 4,
+                    "editStatusText": "审核成功",
+                    "price": 2620,
+                    "totalStockNum": 999,
+                    "skuList": [
+                        {
+                            "skuId": "9338367",
+                            "price": 2620
+                        }
+                    ],
+                    "source": 1,
+                    "platformTitle": "小商店",
+                    "platformId": 0
+                }
+            ]
+        }
+    ]

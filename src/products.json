@@ -1,0 +1,5095 @@
+ [
+        {
+            "key": 973597,
+            "productId": 973597,
+            "title": "羊羊羊婴儿羊奶粉800g",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/bSoGX4UCMNaSEBMfxxsZg_O6moUFb45on44KNmaOEGqi4RA9ap_Nbjb-3487rjtz?media-id=bSoGX4UCMNaSEBMfxxsZg_O6moUFb45on44KNmaOEGqi4RA9ap_Nbjb-3487rjtz&appid=wxcbfb65e3c505d5f0",
+            "status": 5,
+            "soldNum": 1,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1605353350,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 23600,
+            "totalStockNum": 2991,
+            "skuList": [
+                {
+                    "skuId": "9434465",
+                    "price": 36800
+                },
+                {
+                    "skuId": "9451097",
+                    "price": 36800
+                },
+                {
+                    "skuId": "9453045",
+                    "price": 36800
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 3692440,
+            "productId": 3692440,
+            "title": "乐事零食薯片",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/37IYfNVop_kiUHvZPdYg_xCTcG_EHW02MZWyZOSemTooNFzajdTpn23VYlh6KWal?media-id=37IYfNVop_kiUHvZPdYg_xCTcG_EHW02MZWyZOSemTooNFzajdTpn23VYlh6KWal&appid=wx6aae7caa203cea33",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1605333912,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 1000,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "9421145",
+                    "price": 1000
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 3705721,
+            "productId": 3705721,
+            "title": "思念速冻金牌水饺",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/0KQUWFvh8Bv65A4JGUIv2zXbDnYzRJpkZIGZ5AGWwgXCD6zbX_qcK6_lhokKM6T4?media-id=0KQUWFvh8Bv65A4JGUIv2zXbDnYzRJpkZIGZ5AGWwgXCD6zbX_qcK6_lhokKM6T4&appid=wxdcaea9abba521868",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1605333600,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 3850,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "9407843",
+                    "price": 3850
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 3696066,
+            "productId": 3696066,
+            "title": "甘源瓜子仁",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/B6GZ8YZ23GJVZYOIhacJ_vBT-91XTWm1q2KAN277RRzmHgwnvjWFx98X_9x68OD3?media-id=B6GZ8YZ23GJVZYOIhacJ_vBT-91XTWm1q2KAN277RRzmHgwnvjWFx98X_9x68OD3&appid=wx2c348cf579062e56",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1605333512,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 400,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "9404056",
+                    "price": 400
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 3686698,
+            "productId": 3686698,
+            "title": "家乐酸辣汤",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/vzDyHt5W2BFMrRQpxK3xKnxBsFmTZ4hsjU51U7t6OgOyDQqtbR8YUaoTt1wbVTcW?media-id=vzDyHt5W2BFMrRQpxK3xKnxBsFmTZ4hsjU51U7t6OgOyDQqtbR8YUaoTt1wbVTcW&appid=wx91d27dbf599dff74",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1605333481,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 400,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "9404054",
+                    "price": 400
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 3686696,
+            "productId": 3686696,
+            "title": "维维豆奶粉",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/AflO0O0Kc1gl0FBwqR2eDR6jA7p2DiHVTwcQhWa88NbwRvO4KG2O_e4y73JYRwyL?media-id=AflO0O0Kc1gl0FBwqR2eDR6jA7p2DiHVTwcQhWa88NbwRvO4KG2O_e4y73JYRwyL&appid=wxb24ce3c3dec787eb",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1605333434,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 1400,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "9409790",
+                    "price": 1400
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 3674234,
+            "productId": 3674234,
+            "title": "美年达汽水",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/qysnIJMT7aUUtDkR-yPSyN4FzHp4fgUxJOVIgamEdHay_GVPbIht6o09Jrg5Aohu?media-id=qysnIJMT7aUUtDkR-yPSyN4FzHp4fgUxJOVIgamEdHay_GVPbIht6o09Jrg5Aohu&appid=wx032d29bf626167af",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1605318725,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 300,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "9397289",
+                    "price": 300
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 3641963,
+            "productId": 3641963,
+            "title": "好丽友土豆",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/uJ15xEmSt4zzxbeEooXErgki1VxWsElhXXPQEZpnvSG3gChQJDt3dqCMpRSZWAeq?media-id=uJ15xEmSt4zzxbeEooXErgki1VxWsElhXXPQEZpnvSG3gChQJDt3dqCMpRSZWAeq&appid=wxf426f20f8d5cb9e7",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1605276159,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 600,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "9362316",
+                    "price": 600
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 3638416,
+            "productId": 3638416,
+            "title": "洽洽香瓜子",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/CcypCyj88IbI2dpjtv2Hu7CTQPnZaYMqOl7onIc356qyVSJw5nZwVUyuLQPrnq7u?media-id=CcypCyj88IbI2dpjtv2Hu7CTQPnZaYMqOl7onIc356qyVSJw5nZwVUyuLQPrnq7u&appid=wx9cc0a3e202610453",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1605275989,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 1100,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "9346957",
+                    "price": 1100
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 3624873,
+            "productId": 3624873,
+            "title": "奥利奥巧克力",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/9n_5un1BdvbqW0BNyuW7Aa2n-nS72YKr2bb_bTyY9kGhNw59xLd9GsosIjvIwVc0?media-id=9n_5un1BdvbqW0BNyuW7Aa2n-nS72YKr2bb_bTyY9kGhNw59xLd9GsosIjvIwVc0&appid=wx51bd9603b14c65f3",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1605275940,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 1989,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "9346955",
+                    "price": 1989
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 3640098,
+            "productId": 3640098,
+            "title": "劲仔华文小鱼仔",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/FlRqLSsF2u26-1N2ZmI1rWEx20W5VSv6CmAw9cbuXWIU0yQm7HBJta1VeQ6Kc_b_?media-id=FlRqLSsF2u26-1N2ZmI1rWEx20W5VSv6CmAw9cbuXWIU0yQm7HBJta1VeQ6Kc_b_&appid=wx681b1e78da02dd16",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1605275877,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 1200,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "9368477",
+                    "price": 1200
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 3628789,
+            "productId": 3628789,
+            "title": "卫龙亲嘴辣条",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/S0_Wq_XMbFKPxtbTDJfXRrkA0aoU2ConDBMkDAglbEpMyufvsM0fdF6862iruywE?media-id=S0_Wq_XMbFKPxtbTDJfXRrkA0aoU2ConDBMkDAglbEpMyufvsM0fdF6862iruywE&appid=wxd93cbb549541c855",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1605275852,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 490,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "9346943",
+                    "price": 490
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 3643711,
+            "productId": 3643711,
+            "title": "士力架",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/ztzPp-fDnhxxFs2crVWImN-cC6c3lqmZwHYCrsG_ajYFPAw_wP7enZLl_7-vv31p?media-id=ztzPp-fDnhxxFs2crVWImN-cC6c3lqmZwHYCrsG_ajYFPAw_wP7enZLl_7-vv31p&appid=wx3930a699b4b1a058",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1605275746,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 450,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "9382098",
+                    "price": 450
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 3643703,
+            "productId": 3643703,
+            "title": "德芙Dove巧克力",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/O1ErOxgViz0iQjEH2CTnyNuSSIrepU5hOUcLv5JqkDjvPpRlceOBz_DLjbJwIjwo?media-id=O1ErOxgViz0iQjEH2CTnyNuSSIrepU5hOUcLv5JqkDjvPpRlceOBz_DLjbJwIjwo&appid=wx681b1e78da02dd16",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1605275721,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 640,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "9377284",
+                    "price": 640
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 3649298,
+            "productId": 3649298,
+            "title": "奥利奥夹心巧克力",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/XOOuPmFaC70lH4rHq0zKlf5TAS1e3f6aULA0llJEKm7VxrvTRTwCWPNk-bFPudn_?media-id=XOOuPmFaC70lH4rHq0zKlf5TAS1e3f6aULA0llJEKm7VxrvTRTwCWPNk-bFPudn_&appid=wxfdd9d0f589d3a8c6",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1605275668,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 600,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "9375307",
+                    "price": 600
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 3626738,
+            "productId": 3626738,
+            "title": "椰树椰汁",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/zr3FfzeqrtRXm_Sz9In8FEPwKwjc6NjGUWOAnAS9DL0jJTyTt8o6HWoBg6Gu4UTv?media-id=zr3FfzeqrtRXm_Sz9In8FEPwKwjc6NjGUWOAnAS9DL0jJTyTt8o6HWoBg6Gu4UTv&appid=wx8c3d5c89e33789d9",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1605275621,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 450,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "9366191",
+                    "price": 450
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 3649287,
+            "productId": 3649287,
+            "title": "可口可乐汽水2L",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/bNw6Mk5bPH-99f1KjTGm_Myr0pzCz-33mtcVON250fP5WiSbViWKWalWJRkYwOiV?media-id=bNw6Mk5bPH-99f1KjTGm_Myr0pzCz-33mtcVON250fP5WiSbViWKWalWJRkYwOiV&appid=wx82bee911e6142116",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1605275591,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 700,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "9362270",
+                    "price": 700
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 3638300,
+            "productId": 3638300,
+            "title": "椰树椰汁",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/8Z0zhn_ZZUHupQmrYF48TpyGY8d9yWtAsRgZIzcNslqvq0MxtjdlJspZxXxf5JrF?media-id=8Z0zhn_ZZUHupQmrYF48TpyGY8d9yWtAsRgZIzcNslqvq0MxtjdlJspZxXxf5JrF&appid=wx11f189b86e673187",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1605275438,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 1500,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "9375297",
+                    "price": 1500
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 3634207,
+            "productId": 3634207,
+            "title": "梅林MALING午餐肉",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/3M524Phy9yZyTak4sZF4S8IiA9UcZsn5fojpBUKYckAatEn6qTDfHHKmxCuY9MZb?media-id=3M524Phy9yZyTak4sZF4S8IiA9UcZsn5fojpBUKYckAatEn6qTDfHHKmxCuY9MZb&appid=wx8a2097f288bfab20",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1605275357,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 8000,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "9346872",
+                    "price": 8000
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 3636174,
+            "productId": 3636174,
+            "title": "乐事滋味薯片",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/ntKacxTRA6MxMK-vVEYDxlKxaGhJ8vFtb7Z6lEoOzma2-C4BQwXqYWDnLDiPxmX3?media-id=ntKacxTRA6MxMK-vVEYDxlKxaGhJ8vFtb7Z6lEoOzma2-C4BQwXqYWDnLDiPxmX3&appid=wxbcff3c2840613b6a",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1605275266,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 2800,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "9373537",
+                    "price": 2800
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 3613971,
+            "productId": 3613971,
+            "title": "鸿兴水煮鱼片调料",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/JY_yOR_qF90HiYWH0UMfQV7ICdlWx_d8r6j06lOVPkYGyphho1jS2YNAtXsOLlPi?media-id=JY_yOR_qF90HiYWH0UMfQV7ICdlWx_d8r6j06lOVPkYGyphho1jS2YNAtXsOLlPi&appid=wx681b1e78da02dd16",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1605263897,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 2620,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "9338367",
+                    "price": 2620
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 3621579,
+            "productId": 3621579,
+            "title": "若男优级强劲挂面",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/jikoXvWabBZ6wzbrums3tmxc2Jc6tHjVVcylV3pYPa6eRKlydwVZ9REV0qDb1I_0?media-id=jikoXvWabBZ6wzbrums3tmxc2Jc6tHjVVcylV3pYPa6eRKlydwVZ9REV0qDb1I_0&appid=wx5b602639a97b6fdc",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1605263821,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 7200,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "9345494",
+                    "price": 7200
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 3589821,
+            "productId": 3589821,
+            "title": "康师傅干拌面",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/PJKyAPi-YNpVbAnKj2o20vcoCkNZjqwfxUqPY6zicUcu72KvMBLqok0ZAgqzXZTy?media-id=PJKyAPi-YNpVbAnKj2o20vcoCkNZjqwfxUqPY6zicUcu72KvMBLqok0ZAgqzXZTy&appid=wxb24ce3c3dec787eb",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1605245978,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 6000,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "9296751",
+                    "price": 6000
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 3581988,
+            "productId": 3581988,
+            "title": "鲁花自然酱油",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/XkALGo970CHP38ovjLf6J09XUC6NrP6YAvQkomfPf3GN4BqFisIFX2-QX2bvk_Ky?media-id=XkALGo970CHP38ovjLf6J09XUC6NrP6YAvQkomfPf3GN4BqFisIFX2-QX2bvk_Ky&appid=wxca1fe42a16552094",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1605245899,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 2790,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "9313722",
+                    "price": 2790
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 3597222,
+            "productId": 3597222,
+            "title": "吉得利调料",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/0WF1L0oqyIA6QGc4TiW7TwHvNDsUNBXKIEKGt14hPW8RuAKiuHUd-SOmfPcnCNHx?media-id=0WF1L0oqyIA6QGc4TiW7TwHvNDsUNBXKIEKGt14hPW8RuAKiuHUd-SOmfPcnCNHx&appid=wx91d27dbf599dff74",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1605245859,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 600,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "9298887",
+                    "price": 600
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 3586913,
+            "productId": 3586913,
+            "title": "李锦记蒸鱼豉油 410ml",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/tod6HO0JtnLLMfa_FesAPBwPRVgaKpy2UT1LOixkw9pMFaK1X6zg1eY7rnmuAHho?media-id=tod6HO0JtnLLMfa_FesAPBwPRVgaKpy2UT1LOixkw9pMFaK1X6zg1eY7rnmuAHho&appid=wxc3547f6dab5e8403",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1605245812,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 750,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "9292957",
+                    "price": 750
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 3580296,
+            "productId": 3580296,
+            "title": "康师傅鲜蔬方便面",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/WFfeFz4w1GiWBzRROZbyNXjbyKjU46NrwzcI2VBfhy49K907_ipqpkdwINVOZJ0A?media-id=WFfeFz4w1GiWBzRROZbyNXjbyKjU46NrwzcI2VBfhy49K907_ipqpkdwINVOZJ0A&appid=wxed8dce15ef4afa9c",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1605245730,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 1700,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "9298876",
+                    "price": 1700
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 3589793,
+            "productId": 3589793,
+            "title": "农心辛拉面一箱",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/fDMx9cEf5cDOqaRyfRhjJQelJZALse64BfNUWfmyx4kuF2ABEUyzVsCPv1dtq8mm?media-id=fDMx9cEf5cDOqaRyfRhjJQelJZALse64BfNUWfmyx4kuF2ABEUyzVsCPv1dtq8mm&appid=wx681b1e78da02dd16",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1605245673,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 3900,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "9317182",
+                    "price": 3900
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 3595299,
+            "productId": 3595299,
+            "title": "太太乐酱油",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/cKs1T93l4jv__64GyWkI9Lus6ZGFu8HpwRfN_i-4g_ImEc16vMSFvDhkLAdS2eZp?media-id=cKs1T93l4jv__64GyWkI9Lus6ZGFu8HpwRfN_i-4g_ImEc16vMSFvDhkLAdS2eZp&appid=wx91d27dbf599dff74",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1605245628,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 1880,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "9292935",
+                    "price": 1880
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 3583873,
+            "productId": 3583873,
+            "title": "湾仔码头蔬菜水饺",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/YmznO5xMpIZIzcxCso0GGQUrBSR8RPZVERNjjV65GqennQA3EC9ocsUFMxRYz7TG?media-id=YmznO5xMpIZIzcxCso0GGQUrBSR8RPZVERNjjV65GqennQA3EC9ocsUFMxRYz7TG&appid=wx91d27dbf599dff74",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1605245603,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 1200,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "9311793",
+                    "price": 1200
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 3599048,
+            "productId": 3599048,
+            "title": "厨邦酱油",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/trI4LXgujn4kx1HDJ64eMfRlvOfPgSjChTJeG8_mmCAObxMLeQfczgka6x2yhWa7?media-id=trI4LXgujn4kx1HDJ64eMfRlvOfPgSjChTJeG8_mmCAObxMLeQfczgka6x2yhWa7&appid=wx1155b957ac23d82e",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1605245557,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 990,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "9311788",
+                    "price": 990
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 3578622,
+            "productId": 3578622,
+            "title": "福临门粮油丝苗米",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/_6cRGtpT0-19h1jRGyvTphD8mpO8D2kZ1lMKjux-ptBQXjCrV5WXK02XhP5Xgb45?media-id=_6cRGtpT0-19h1jRGyvTphD8mpO8D2kZ1lMKjux-ptBQXjCrV5WXK02XhP5Xgb45&appid=wx8bbc408a183bed10",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1605245529,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 4500,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "9302668",
+                    "price": 4500
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 3586893,
+            "productId": 3586893,
+            "title": "上一道中筋馒头面粉",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/VW2oKAr7X3BzEgKWMdUVdpso0rGRz-SmCYvv71O8c1vw-ueiKJ0PNQRV5Qv2gb5T?media-id=VW2oKAr7X3BzEgKWMdUVdpso0rGRz-SmCYvv71O8c1vw-ueiKJ0PNQRV5Qv2gb5T&appid=wx91d27dbf599dff74",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1605245500,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 5200,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "9292924",
+                    "price": 5200
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 3580262,
+            "productId": 3580262,
+            "title": "康师傅日式豚骨方便面",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/O4auHSftZuGazHjMgi8iT5ASWKDo7dbApoXLUGLrUvFYB1yg8rFBGDTz03kT6iJ6?media-id=O4auHSftZuGazHjMgi8iT5ASWKDo7dbApoXLUGLrUvFYB1yg8rFBGDTz03kT6iJ6&appid=wx681b1e78da02dd16",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1605245410,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 500,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "9302662",
+                    "price": 500
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 3580253,
+            "productId": 3580253,
+            "title": "陈克明挂面",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/Ii_PdUeGdPT5yAOTH22O54hBpoFnXQUlD07Kw19a-x4ZGDhOTA_75YcWgsFO7Hdn?media-id=Ii_PdUeGdPT5yAOTH22O54hBpoFnXQUlD07Kw19a-x4ZGDhOTA_75YcWgsFO7Hdn&appid=wxe15848b03b25ac5c",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1605245350,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 800,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "9302654",
+                    "price": 800
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 3578078,
+            "productId": 3578078,
+            "title": "半价说明",
+            "subTitle": "",
+            "headImg": "https://snsdy.tc.qq.com/161/20304/snscosdownload/SZ/reserved/5fae06ae00011c880000000064125f09000000a000004f50",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1605241112,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 1,
+            "totalStockNum": 10000,
+            "skuList": [
+                {
+                    "skuId": "9298560",
+                    "price": 1
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 3132586,
+            "productId": 3132586,
+            "title": "金胚芽婴幼儿米粉300g",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/BeUQRV-4hlpGPI5wMgo-9o0_GB6ubInpihbTp1Enccj6FOyGzPIdvIkmQqD6jFB3?media-id=BeUQRV-4hlpGPI5wMgo-9o0_GB6ubInpihbTp1Enccj6FOyGzPIdvIkmQqD6jFB3&appid=wx4bc7960451a867ae",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1605236741,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 3600,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "8909114",
+                    "price": 3600
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 3098357,
+            "productId": 3098357,
+            "title": "超级冠营养米粉518g",
+            "subTitle": "",
+            "headImg": "https://snsdy.tc.qq.com/161/20304/snscosdownload/SZ/reserved/5fad28a40001a9a50000000023155f09000000a000004f50",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1605194292,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 7800,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "9276045",
+                    "price": 7800
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 2360595,
+            "productId": 2360595,
+            "title": "鲁花压榨葵花仁油",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/X_ZrozQVyHhDbQuc5AidjHGc0mCxJwqGvwSq8cb4Ljmt9jK3x5HDfkKtWSFbHofY?media-id=X_ZrozQVyHhDbQuc5AidjHGc0mCxJwqGvwSq8cb4Ljmt9jK3x5HDfkKtWSFbHofY&appid=wxbe273848adfb7003",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1605191159,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 9800,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "8253201",
+                    "price": 9800
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 3500590,
+            "productId": 3500590,
+            "title": "益生元蛋白质粉900g",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/5pXv_nejrACyAnUyRpXcZ0PQDorfXWG79emcqUzGsqQICJ1kL0Q9jrp3fXSX9U3y?media-id=5pXv_nejrACyAnUyRpXcZ0PQDorfXWG79emcqUzGsqQICJ1kL0Q9jrp3fXSX9U3y&appid=wx678687fa5226e237",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1605182758,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 9000,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "9263728",
+                    "price": 9000
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 3386048,
+            "productId": 3386048,
+            "title": "羊羊羊儿童羊奶粉",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/f0M2st9NJeEujkArxeGiWBAzjcb2SVM2jdxgAt3U661e1rGehnu2hxVD_99iFAD_?media-id=f0M2st9NJeEujkArxeGiWBAzjcb2SVM2jdxgAt3U661e1rGehnu2hxVD_99iFAD_&appid=wx678687fa5226e237",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1605090532,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 17800,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "9164396",
+                    "price": 17800
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 3391897,
+            "productId": 3391897,
+            "title": "中老年羊奶粉",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/YjHrp3fqBY_Wx3kzy_UCKuZ3DA9WZA9I7K7GnJMcLIW1Ra7sjaYWZ_L_D5LoX4WS?media-id=YjHrp3fqBY_Wx3kzy_UCKuZ3DA9WZA9I7K7GnJMcLIW1Ra7sjaYWZ_L_D5LoX4WS&appid=wx4b74228baa15489a",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1605089686,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 18800,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "9175320",
+                    "price": 18800
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 3399521,
+            "productId": 3399521,
+            "title": "婴幼儿米粉",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/QkAXkGh_MY6LBapIo8XQlqKy63mOP0h7LXzlzTvNa-8qin8FJb0cQJ4M9CYQgPt5?media-id=QkAXkGh_MY6LBapIo8XQlqKy63mOP0h7LXzlzTvNa-8qin8FJb0cQJ4M9CYQgPt5&appid=wx4bc7960451a867ae",
+            "status": 6,
+            "soldNum": 0,
+            "statusText": "最近删除",
+            "statusBigText": "已删除",
+            "editTime": 1605088954,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 4000,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "9168079",
+                    "price": 4000
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 3141379,
+            "productId": 3141379,
+            "title": "贝因美Beingmate婴儿米粉",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/XTvK55QokKnqYIvkNOZvr7cGbqMU_XMuopM1kg9l4l0g5GxSDziz2kVEUzbDT69f?media-id=XTvK55QokKnqYIvkNOZvr7cGbqMU_XMuopM1kg9l4l0g5GxSDziz2kVEUzbDT69f&appid=wx91d27dbf599dff74",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1605062311,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 5700,
+            "totalStockNum": 4995,
+            "skuList": [
+                {
+                    "skuId": "8888701",
+                    "price": 5700
+                },
+                {
+                    "skuId": "8905164",
+                    "price": 5700
+                },
+                {
+                    "skuId": "8898341",
+                    "price": 5700
+                },
+                {
+                    "skuId": "8901725",
+                    "price": 5700
+                },
+                {
+                    "skuId": "8886990",
+                    "price": 5700
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 2777850,
+            "productId": 2777850,
+            "title": "羊羊羊婴儿奶粉120g",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/jG35zBYuahUYVWpNbprYpgyTseeSt2NZZKsXFvkdr1Gh1D-UAH8YEg2n_WT9aW5X?media-id=jG35zBYuahUYVWpNbprYpgyTseeSt2NZZKsXFvkdr1Gh1D-UAH8YEg2n_WT9aW5X&appid=wx678687fa5226e237",
+            "status": 5,
+            "soldNum": 3,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1604964026,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 1500,
+            "totalStockNum": 996,
+            "skuList": [
+                {
+                    "skuId": "8598165",
+                    "price": 6800
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 3124860,
+            "productId": 3124860,
+            "title": "冠军宝营养米粉（两桶）",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/oud09L0UdO9bljXMKc7xvFvxXd93PV8nd5nw7Jo3f_QG0WhSu66JCfMAIQn-DGQP?media-id=oud09L0UdO9bljXMKc7xvFvxXd93PV8nd5nw7Jo3f_QG0WhSu66JCfMAIQn-DGQP&appid=wxb11426710cceab50",
+            "status": 6,
+            "soldNum": 0,
+            "statusText": "最近删除",
+            "statusBigText": "已删除",
+            "editTime": 1604891120,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 7800,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "8905310",
+                    "price": 7800
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 3140189,
+            "productId": 3140189,
+            "title": "爱加婴儿配方奶粉",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/s2AD7VdlFQ2MY8YMS1p-3nOmvgLVeGCstugvXpDKdh3igRdUY4ixSONnEn0pqLL7?media-id=s2AD7VdlFQ2MY8YMS1p-3nOmvgLVeGCstugvXpDKdh3igRdUY4ixSONnEn0pqLL7&appid=wx610e969efd7826b9",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1604889450,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 27800,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "8907020",
+                    "price": 27800
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1315175,
+            "productId": 1315175,
+            "title": "金领婴儿配方奶粉",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/CVAQ7tW2LODfiAyniKTxr0uUfQYTOJolm2OfQSU1hw9vYFL2Yp22BuLjstRXbInk?media-id=CVAQ7tW2LODfiAyniKTxr0uUfQYTOJolm2OfQSU1hw9vYFL2Yp22BuLjstRXbInk&appid=wxf7fe934299990535",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1604832261,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 9900,
+            "totalStockNum": 2997,
+            "skuList": [
+                {
+                    "skuId": "7436981",
+                    "price": 9900
+                },
+                {
+                    "skuId": "7446482",
+                    "price": 9900
+                },
+                {
+                    "skuId": "7442624",
+                    "price": 9900
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 2742363,
+            "productId": 2742363,
+            "title": "美素佳儿皇家婴儿配方奶粉800g",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/Om59cUcou-AS_a6y1y2FSisEEf3V4NWx7t9fSf0_6GXouPfK4uulRK39_xjxGo6z?media-id=Om59cUcou-AS_a6y1y2FSisEEf3V4NWx7t9fSf0_6GXouPfK4uulRK39_xjxGo6z&appid=wx91d27dbf599dff74",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1604832200,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 39600,
+            "totalStockNum": 2997,
+            "skuList": [
+                {
+                    "skuId": "8558523",
+                    "price": 39600
+                },
+                {
+                    "skuId": "8550970",
+                    "price": 39600
+                },
+                {
+                    "skuId": "8567653",
+                    "price": 39600
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 2751742,
+            "productId": 2751742,
+            "title": "米慕羊乳酸菌奶粉",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/HEM2qI1lJXwgcpJD8jqvfObEGazBpm9VRsWC0FG4FDMSxAh2uoFfbF-7J3C9b41o?media-id=HEM2qI1lJXwgcpJD8jqvfObEGazBpm9VRsWC0FG4FDMSxAh2uoFfbF-7J3C9b41o&appid=wx678687fa5226e237",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1604579174,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 32800,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "8558576",
+                    "price": 32800
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 2780307,
+            "productId": 2780307,
+            "title": "营养米粉黄小米婴儿辅食250g盒装¥32.00",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/xmKXsTwvZ0Z2ku7807d266e-zkgziIaR9OKZZpk_kcvtZGcMAHqWszrbUq_lICWv?media-id=xmKXsTwvZ0Z2ku7807d266e-zkgziIaR9OKZZpk_kcvtZGcMAHqWszrbUq_lICWv&appid=wx678687fa5226e237",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1604576308,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 3200,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "8603656",
+                    "price": 3200
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 2785339,
+            "productId": 2785339,
+            "title": "贝之翼纯有机米粉婴儿辅食奶粉伴侣450g罐装¥78",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/NSk1ApQnX4JM0wglC_S2DPAful_7a0Qv6wdy8rXbBFDnguVRljvgo_n-uX1y1U3v?media-id=NSk1ApQnX4JM0wglC_S2DPAful_7a0Qv6wdy8rXbBFDnguVRljvgo_n-uX1y1U3v&appid=wx678687fa5226e237",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1604576209,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 7800,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "8611255",
+                    "price": 7800
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 2777978,
+            "productId": 2777978,
+            "title": "贝之翼黄小米婴儿辅食宝宝口粮500g",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/jgtowyLpVV8lIopK5slPNKm1RjxpJZatZ2P8NlB0GxrOKqrCnMmAVYyGSBW93iX8?media-id=jgtowyLpVV8lIopK5slPNKm1RjxpJZatZ2P8NlB0GxrOKqrCnMmAVYyGSBW93iX8&appid=wx678687fa5226e237",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1604576107,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 7000,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "8613197",
+                    "price": 7000
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 2736637,
+            "productId": 2736637,
+            "title": "贝生元米粉",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/Qs7P5lAjephoIgm-N3mm-t0KMdyJsgXdL1qSFdivz_PvSwHpXsNc1emyHFKkJlzS?media-id=Qs7P5lAjephoIgm-N3mm-t0KMdyJsgXdL1qSFdivz_PvSwHpXsNc1emyHFKkJlzS&appid=wx4482f353e42a80f9",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1604546792,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 4500,
+            "totalStockNum": 9999,
+            "skuList": [
+                {
+                    "skuId": "8558514",
+                    "price": 4500
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 2740577,
+            "productId": 2740577,
+            "title": "金领婴儿配方奶粉",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/CT04SNMRQo-ms9D_-HVnaJgBc5ge2Z-xRKFbd5NWBQabu5HS3GCEBEfjrsYRpXX3?media-id=CT04SNMRQo-ms9D_-HVnaJgBc5ge2Z-xRKFbd5NWBQabu5HS3GCEBEfjrsYRpXX3&appid=wx8a2097f288bfab20",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1604546424,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 22500,
+            "totalStockNum": 11997,
+            "skuList": [
+                {
+                    "skuId": "8554859",
+                    "price": 22500
+                },
+                {
+                    "skuId": "8560083",
+                    "price": 22500
+                },
+                {
+                    "skuId": "8550924",
+                    "price": 22500
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 2744379,
+            "productId": 2744379,
+            "title": "爱他美Aptamil婴儿配方奶粉",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/BcZXxEhA-3ne3mO7O3DcasTd7hRLSepQGh5PjDFNIWXu7Icg50NGzPHo9oXmjBqb?media-id=BcZXxEhA-3ne3mO7O3DcasTd7hRLSepQGh5PjDFNIWXu7Icg50NGzPHo9oXmjBqb&appid=wx7002ecc2487fc2e8",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1604546222,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 24500,
+            "totalStockNum": 2997,
+            "skuList": [
+                {
+                    "skuId": "8560060",
+                    "price": 24500
+                },
+                {
+                    "skuId": "8550907",
+                    "price": 24500
+                },
+                {
+                    "skuId": "8554823",
+                    "price": 24500
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 2746259,
+            "productId": 2746259,
+            "title": "爱他美Aptamil婴儿配方奶粉",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/BcZXxEhA-3ne3mO7O3DcasTd7hRLSepQGh5PjDFNIWXu7Icg50NGzPHo9oXmjBqb?media-id=BcZXxEhA-3ne3mO7O3DcasTd7hRLSepQGh5PjDFNIWXu7Icg50NGzPHo9oXmjBqb&appid=wx7002ecc2487fc2e8",
+            "status": 0,
+            "soldNum": 0,
+            "statusText": "待发布",
+            "statusBigText": "待上架",
+            "editTime": 1604546156,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 24500,
+            "totalStockNum": 2997,
+            "skuList": [
+                {
+                    "skuId": "8565756",
+                    "price": 24500
+                },
+                {
+                    "skuId": "8558447",
+                    "price": 24500
+                },
+                {
+                    "skuId": "8550903",
+                    "price": 24500
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 2740521,
+            "productId": 2740521,
+            "title": "麦蔻乐享幼儿配方奶粉",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/3dpUdFuJZcoK9bwI3jCkskio7BQRC-sag0zbYwUKKQ18exSJvXouqar5z_lgQsZk?media-id=3dpUdFuJZcoK9bwI3jCkskio7BQRC-sag0zbYwUKKQ18exSJvXouqar5z_lgQsZk&appid=wxf5c23456c9dae7c9",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1604545965,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 36800,
+            "totalStockNum": 2997,
+            "skuList": [
+                {
+                    "skuId": "8554794",
+                    "price": 36800
+                },
+                {
+                    "skuId": "8554795",
+                    "price": 36800
+                },
+                {
+                    "skuId": "8573023",
+                    "price": 36800
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 2352975,
+            "productId": 2352975,
+            "title": "光明新鲜鲜奶",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/J4uHFqkWef7MGw_ketFKqLOTIHHw4Oh5R6BCNPoSgAMPETTokBf8W1ZysYYySx-O?media-id=J4uHFqkWef7MGw_ketFKqLOTIHHw4Oh5R6BCNPoSgAMPETTokBf8W1ZysYYySx-O&appid=wx688e0bc628edd02e",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1604141396,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 1490,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "8238873",
+                    "price": 1490
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 2369539,
+            "productId": 2369539,
+            "title": "茶花马桶刷",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/QzEYp5Y56gsYiium7UefTHWCEv0b45b11WnZiA73of22BIfVGGy1pzYbYY8wmoEb?media-id=QzEYp5Y56gsYiium7UefTHWCEv0b45b11WnZiA73of22BIfVGGy1pzYbYY8wmoEb&appid=wx681b1e78da02dd16",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1604141333,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 6900,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "8242074",
+                    "price": 6900
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 2367749,
+            "productId": 2367749,
+            "title": "茶花塑料洗脸盆",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/Fapi1JAGsIcg-XS9cM0uENc3l05JepiRZ66D5KSSDOYLzNCYHh22SPYyqQJFbxQ2?media-id=Fapi1JAGsIcg-XS9cM0uENc3l05JepiRZ66D5KSSDOYLzNCYHh22SPYyqQJFbxQ2&appid=wx314dd070d881531f",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1604141227,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 1190,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "8246109",
+                    "price": 1190
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 2313130,
+            "productId": 2313130,
+            "title": "客厅烟灰缸",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/yVZ1jJbRzAK6BNa-NpJBt0CM4AP5TEig7a8R1Wcj0h1sY2vmBRtOkUY3WewcZzXO?media-id=yVZ1jJbRzAK6BNa-NpJBt0CM4AP5TEig7a8R1Wcj0h1sY2vmBRtOkUY3WewcZzXO&appid=wx91d27dbf599dff74",
+            "status": 6,
+            "soldNum": 0,
+            "statusText": "最近删除",
+            "statusBigText": "已删除",
+            "editTime": 1604065161,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 0,
+            "totalStockNum": 0,
+            "skuList": [],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 2311170,
+            "productId": 2311170,
+            "title": "塑料凳子",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/6_kKx_jAxYQLzQsH1H_tPIeqHnpRWSX4KCrLxrkDQXTKcYwCiXNhg1o9bJcc1KR1?media-id=6_kKx_jAxYQLzQsH1H_tPIeqHnpRWSX4KCrLxrkDQXTKcYwCiXNhg1o9bJcc1KR1&appid=wx681b1e78da02dd16",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1604065124,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 6750,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "8199861",
+                    "price": 6750
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 2301390,
+            "productId": 2301390,
+            "title": "公牛插座",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/fDL0KkmDU-l2rEmMcQ-R85IHG7dWrxQW0E-FqKq16lP109L_caTooZZZCW2fknit?media-id=fDL0KkmDU-l2rEmMcQ-R85IHG7dWrxQW0E-FqKq16lP109L_caTooZZZCW2fknit&appid=wx4482f353e42a80f9",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1604064695,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 3700,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "8192391",
+                    "price": 3700
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 2293640,
+            "productId": 2293640,
+            "title": "衣架",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/fR2cd5bp5vV1HANmaCPpWS1g1CyvMjTNc2g3fB1C2losUjk9mXqWIl__H-AENr2o?media-id=fR2cd5bp5vV1HANmaCPpWS1g1CyvMjTNc2g3fB1C2losUjk9mXqWIl__H-AENr2o&appid=wxcdc13dc8495e174e",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1604064665,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 1090,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "8201516",
+                    "price": 1090
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 2307322,
+            "productId": 2307322,
+            "title": "茶花CHAHUA塑料凳子",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/lsoGpqYyG3b98GVAhjUBCPF-nQ_cphrhE4Bo6ilW_YyuwCx7NdUg2LzsOokUGFtX?media-id=lsoGpqYyG3b98GVAhjUBCPF-nQ_cphrhE4Bo6ilW_YyuwCx7NdUg2LzsOokUGFtX&appid=wx681b1e78da02dd16",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1604064642,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 3490,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "8205082",
+                    "price": 3490
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 2293635,
+            "productId": 2293635,
+            "title": "茶花衣架",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/dG_Ea1LBHBoAtrNtY_h5TsEIMj24seoJasUSmhmwiwHBat50p1H60Y51QKTVCY5P?media-id=dG_Ea1LBHBoAtrNtY_h5TsEIMj24seoJasUSmhmwiwHBat50p1H60Y51QKTVCY5P&appid=wx91d27dbf599dff74",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1604064617,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 1290,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "8197945",
+                    "price": 1290
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 2299538,
+            "productId": 2299538,
+            "title": "Suncha加厚砧板",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/2So1vGBuhVfiXfD2HhakURRwDDtwplTREJdA6ZIilf5rGz2L7XC8k90JCX3tIF6d?media-id=2So1vGBuhVfiXfD2HhakURRwDDtwplTREJdA6ZIilf5rGz2L7XC8k90JCX3tIF6d&appid=wx681b1e78da02dd16",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1604064561,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 13900,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "8201511",
+                    "price": 13900
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 2295663,
+            "productId": 2295663,
+            "title": "Suncha创意砧板",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/5OJ9ZBhDDgggKFRiAQx5qjdcc_PpV59aHVf-24NVet5JXNfE71wwY2vl5DIlWTyx?media-id=5OJ9ZBhDDgggKFRiAQx5qjdcc_PpV59aHVf-24NVet5JXNfE71wwY2vl5DIlWTyx&appid=wx91d27dbf599dff74",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1604064520,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 6990,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "8186941",
+                    "price": 6990
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 2313060,
+            "productId": 2313060,
+            "title": "FENGHOU冷水壶",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/gs3Lmk3REvufVkTKESzXJ1l_4nJB6P9VMoJBV4gQe_crYOFd1ciOdbE7q_dWmENe?media-id=gs3Lmk3REvufVkTKESzXJ1l_4nJB6P9VMoJBV4gQe_crYOFd1ciOdbE7q_dWmENe&appid=wx681b1e78da02dd16",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1604064454,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 1800,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "8197928",
+                    "price": 1800
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 2301367,
+            "productId": 2301367,
+            "title": "希乐水杯",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/jpFUMw5gM8AWyRVOpnq6lFgOr5CuevuEtSKNetRiJAYukWbhnnbiraKXiGXZlW1v?media-id=jpFUMw5gM8AWyRVOpnq6lFgOr5CuevuEtSKNetRiJAYukWbhnnbiraKXiGXZlW1v&appid=wx91d27dbf599dff74",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1604064414,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 6900,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "8184782",
+                    "price": 6900
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 2313052,
+            "productId": 2313052,
+            "title": "紫丁香耐热保鲜盒",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/kjGK19_agJf574YwqD8E-B9X-bm0xTXGDyTW72WYCHQNuwqqFsUrJORY-F2sdfnb?media-id=kjGK19_agJf574YwqD8E-B9X-bm0xTXGDyTW72WYCHQNuwqqFsUrJORY-F2sdfnb&appid=wx681b1e78da02dd16",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1604064390,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 5600,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "8203212",
+                    "price": 5600
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1886780,
+            "productId": 1886780,
+            "title": "Nestle雀巢原味咖啡",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/j6oQpLoCVSgNtE6L3H4EJg76uKvRuxMOP8yj-4xTIruKSUuF3yugZlPFZlKjNZPT?media-id=j6oQpLoCVSgNtE6L3H4EJg76uKvRuxMOP8yj-4xTIruKSUuF3yugZlPFZlKjNZPT&appid=wx286cb85216f1a661",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1603707515,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 29900,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7911825",
+                    "price": 29900
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1833603,
+            "productId": 1833603,
+            "title": "爱仕达煎锅",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/1m26PsYp3P8byAv0r7UNzjVsbH35ZQtPA4otPwDEshzjPbDLFst5nXyaycIJwJDC?media-id=1m26PsYp3P8byAv0r7UNzjVsbH35ZQtPA4otPwDEshzjPbDLFst5nXyaycIJwJDC&appid=wx681b1e78da02dd16",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1603677740,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 5900,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7873929",
+                    "price": 5900
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1837639,
+            "productId": 1837639,
+            "title": "SUPOR真空保温杯",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/Ospp_ufLYvyff6Aax8g6W8lMx5PC0SCtg5nL_2NXvX6yB-SuhARh73EAh4Nht0l5?media-id=Ospp_ufLYvyff6Aax8g6W8lMx5PC0SCtg5nL_2NXvX6yB-SuhARh73EAh4Nht0l5&appid=wx91d27dbf599dff74",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1603677708,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 7900,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7873927",
+                    "price": 7900
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1848539,
+            "productId": 1848539,
+            "title": "希乐百货乐乐玻璃杯",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/7DXR0bK-uHnT_1XRipy1-SaILPPEizxi-0Q5WqQ1qPekJ08qpBOajo8e2ehmbIp7?media-id=7DXR0bK-uHnT_1XRipy1-SaILPPEizxi-0Q5WqQ1qPekJ08qpBOajo8e2ehmbIp7&appid=wx681b1e78da02dd16",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1603677680,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 4980,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7876136",
+                    "price": 4980
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1841396,
+            "productId": 1841396,
+            "title": "石岛罗马红酒",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/qVXyCqBkduAUaAtpc6_N7c_e-Gp-q36vkp8TxsilCrKDUXjh0EfkW_ZWV2k9nMB7?media-id=qVXyCqBkduAUaAtpc6_N7c_e-Gp-q36vkp8TxsilCrKDUXjh0EfkW_ZWV2k9nMB7&appid=wxc9cf7c95499ee604",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1603677487,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 1900,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7877834",
+                    "price": 1900
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1847052,
+            "productId": 1847052,
+            "title": "乐美雅白酒杯",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/iLNm74obdMLK01zGZ0o06hkiTT2NGB7Avo8PyR0w_cZn8XtQimQ1x1pb0-0T4qZM?media-id=iLNm74obdMLK01zGZ0o06hkiTT2NGB7Avo8PyR0w_cZn8XtQimQ1x1pb0-0T4qZM&appid=wx681b1e78da02dd16",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1603677434,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 9300,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7866867",
+                    "price": 9300
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1847045,
+            "productId": 1847045,
+            "title": "耐热玻璃杯",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/6cIz9WYQ7iEx6UTmNCmrc-uIZGHTnefo6p34nevP1SBcjbffvQ2io20mA1SnlZ3J?media-id=6cIz9WYQ7iEx6UTmNCmrc-uIZGHTnefo6p34nevP1SBcjbffvQ2io20mA1SnlZ3J&appid=wx681b1e78da02dd16",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1603677339,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 4700,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7873904",
+                    "price": 4700
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1850208,
+            "productId": 1850208,
+            "title": "茶花漱口杯",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/SzS_OZ7oS77icA3i4oAdPyiNZmmtvR0FNzX_bwDFthDc5SK1L0oN7ufcduXa2Acf?media-id=SzS_OZ7oS77icA3i4oAdPyiNZmmtvR0FNzX_bwDFthDc5SK1L0oN7ufcduXa2Acf&appid=wx91d27dbf599dff74",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1603677284,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 1200,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7868785",
+                    "price": 1200
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1837606,
+            "productId": 1837606,
+            "title": "水果保鲜盒",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/ZdM2FCRZ-r1EB7jqummSTTKafLVdqTsOAfh7RFxt9c5v_6pwwtBioxlE1IFtNopE?media-id=ZdM2FCRZ-r1EB7jqummSTTKafLVdqTsOAfh7RFxt9c5v_6pwwtBioxlE1IFtNopE&appid=wx681b1e78da02dd16",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1603677247,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 2640,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7887040",
+                    "price": 2640
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1831779,
+            "productId": 1831779,
+            "title": "茶花简约漱口杯",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/LlZR0GjKwLbDoCmhR-Lg5-j40klRWxMzyLJeuTm_qro8GpElome5_JYE3LT6GzoA?media-id=LlZR0GjKwLbDoCmhR-Lg5-j40klRWxMzyLJeuTm_qro8GpElome5_JYE3LT6GzoA&appid=wx91d27dbf599dff74",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1603677221,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 990,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7873884",
+                    "price": 990
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1837605,
+            "productId": 1837605,
+            "title": "小黄鸭婴儿水杯",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/0_JDps5_qMhgiN0-zu5sHFCaqRv-8c0K828ytmDxGVFXoJsVzHOMjOAT4Y6qxLDi?media-id=0_JDps5_qMhgiN0-zu5sHFCaqRv-8c0K828ytmDxGVFXoJsVzHOMjOAT4Y6qxLDi&appid=wx4b74228baa15489a",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1603677199,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 2190,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7870486",
+                    "price": 2190
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1843364,
+            "productId": 1843364,
+            "title": "哈尔斯保温壶",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/sg-jsj3JKTcCekVBULmyVPWPSRjlJ-w7V6Ed8T29TUagmMYHOsC56f40VUB5Fare?media-id=sg-jsj3JKTcCekVBULmyVPWPSRjlJ-w7V6Ed8T29TUagmMYHOsC56f40VUB5Fare&appid=wx681b1e78da02dd16",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1603677152,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 6900,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7872239",
+                    "price": 6900
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1831772,
+            "productId": 1831772,
+            "title": "茶花简约漱口杯",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/T5jQXPrubsFGG2WkLAuuVuyCLFiqMk_HlcYzFf6V1WTFYBSTeXldZVw0sknPlcma?media-id=T5jQXPrubsFGG2WkLAuuVuyCLFiqMk_HlcYzFf6V1WTFYBSTeXldZVw0sknPlcma&appid=wx681b1e78da02dd16",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1603677126,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 2820,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7872237",
+                    "price": 2820
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1837599,
+            "productId": 1837599,
+            "title": "SUPOR耐热玻璃杯",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/1xC6Vaq77t8q3bW7BAwhtZilR8p4-3boddXIYfRlFmK6jaUt9ApnZH6C2fTTJH1E?media-id=1xC6Vaq77t8q3bW7BAwhtZilR8p4-3boddXIYfRlFmK6jaUt9ApnZH6C2fTTJH1E&appid=wxf1fdc416d4ced1b3",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1603677105,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 13900,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7872236",
+                    "price": 13900
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1847026,
+            "productId": 1847026,
+            "title": "SUPOR儿童水杯",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/P-h8OfZF6LfomaDrRXbQsIh0sQhAVHEdGXDPIOKtfuoD9ViebtecIgLz1NYFbAVU?media-id=P-h8OfZF6LfomaDrRXbQsIh0sQhAVHEdGXDPIOKtfuoD9ViebtecIgLz1NYFbAVU&appid=wx681b1e78da02dd16",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1603677080,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 4900,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7872234",
+                    "price": 4900
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1845311,
+            "productId": 1845311,
+            "title": "雅诚德创意杯子",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/PkbGeDWNgeDbpU9S5SvVQp_x8pUM0LPu0dAjF-Xk0ghvCMX3TwzbwF-Mk2FjtPtm?media-id=PkbGeDWNgeDbpU9S5SvVQp_x8pUM0LPu0dAjF-Xk0ghvCMX3TwzbwF-Mk2FjtPtm&appid=wxd1ba3d0937058e6f",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1603677038,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 16900,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7876092",
+                    "price": 16900
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1843351,
+            "productId": 1843351,
+            "title": "紫丁香冷水壶",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/jaXan3voMOwODb3A_R14wmCGVxRwXrJtZ3zKEpqrIit1s0v9l-oSnALXBsd231gc?media-id=jaXan3voMOwODb3A_R14wmCGVxRwXrJtZ3zKEpqrIit1s0v9l-oSnALXBsd231gc&appid=wx681b1e78da02dd16",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1603677009,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 2990,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7870476",
+                    "price": 2990
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1829956,
+            "productId": 1829956,
+            "title": "敏杨盘子",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/LD394rKKrJslP2DLwZWPWE_RcwE7lt6gyPcPKzLAOkqqcnqA0tWyhPyL-SKXVu_z?media-id=LD394rKKrJslP2DLwZWPWE_RcwE7lt6gyPcPKzLAOkqqcnqA0tWyhPyL-SKXVu_z&appid=wx91d27dbf599dff74",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1603676966,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 600,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7883103",
+                    "price": 600
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1839262,
+            "productId": 1839262,
+            "title": "三维工匠耐热冷水壶",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/qDdX5trqrP5yNzwrs1w-SqepS2jOj_8t2Dljcqooq0Q3CyuZTTOgIvXY83d9QdwW?media-id=qDdX5trqrP5yNzwrs1w-SqepS2jOj_8t2Dljcqooq0Q3CyuZTTOgIvXY83d9QdwW&appid=wxa26ffe8f9be83cc2",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1603676929,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 3900,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7872225",
+                    "price": 3900
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1848482,
+            "productId": 1848482,
+            "title": "双枪Suncha天然竹筷",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/uTIl57ZaFWOxb5BjFnSH__3EKi8htxf0QQMbQsC77VMQzmmFT1QEPvnhzbBwqlWS?media-id=uTIl57ZaFWOxb5BjFnSH__3EKi8htxf0QQMbQsC77VMQzmmFT1QEPvnhzbBwqlWS&appid=wx0211e744ffb590bb",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1603676905,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 1900,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7883101",
+                    "price": 1900
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1833540,
+            "productId": 1833540,
+            "title": "紫罗兰圆形保鲜盒",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/jmiX1DG3AZbUp5DfUo97pU4NwU0oKwhQATDkVLRc1wNlq9YvM4cuxcPOpbM9SYK3?media-id=jmiX1DG3AZbUp5DfUo97pU4NwU0oKwhQATDkVLRc1wNlq9YvM4cuxcPOpbM9SYK3&appid=wx91d27dbf599dff74",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1603676877,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 4800,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7873859",
+                    "price": 4800
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1841334,
+            "productId": 1841334,
+            "title": "苏泊尔水杯",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/cjpVr4zjECHHGXcN5K1NyOwU9ymy-gfx2HMghuFQiRU42GXf7tUaJHcYo7Hs28Vg?media-id=cjpVr4zjECHHGXcN5K1NyOwU9ymy-gfx2HMghuFQiRU42GXf7tUaJHcYo7Hs28Vg&appid=wx91d27dbf599dff74",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1603676853,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 3900,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7877807",
+                    "price": 3900
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1845155,
+            "productId": 1845155,
+            "title": "双枪檀木筷子",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/Dn9NPOV1HBO1Hoqnixb08XQjiim0wc5tTHhoSKu8gLH7i5zTnE79gcs6Meqcf0UE?media-id=Dn9NPOV1HBO1Hoqnixb08XQjiim0wc5tTHhoSKu8gLH7i5zTnE79gcs6Meqcf0UE&appid=wx681b1e78da02dd16",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1603675341,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 1750,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7868672",
+                    "price": 1750
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1850039,
+            "productId": 1850039,
+            "title": "美丽雅保鲜袋",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/DhMWyIPZRxTYkqAb8NKu3W_Q6qKd6qUtOEdLcYR2U2rBDVGON7x0bK4l8XOwNDoF?media-id=DhMWyIPZRxTYkqAb8NKu3W_Q6qKd6qUtOEdLcYR2U2rBDVGON7x0bK4l8XOwNDoF&appid=wx610e969efd7826b9",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1603675271,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 1390,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7881410",
+                    "price": 1390
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1835209,
+            "productId": 1835209,
+            "title": "妙洁一次性桌布",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/Lga6Rbyqhr4v27IgcY37Qy0WUJph3GwII-GLFpC1Wc6zcQSiIuTDaMG-UEbe5y9_?media-id=Lga6Rbyqhr4v27IgcY37Qy0WUJph3GwII-GLFpC1Wc6zcQSiIuTDaMG-UEbe5y9_&appid=wx91d27dbf599dff74",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1603675213,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 2400,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7866785",
+                    "price": 2400
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1837407,
+            "productId": 1837407,
+            "title": "妙洁纸杯",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/3qBmvjK5C59oMPfZ-7Gnzes4SoeU5IrdY13N-x4Dqe_CBVh7L00lCPrECdwEGlDM?media-id=3qBmvjK5C59oMPfZ-7Gnzes4SoeU5IrdY13N-x4Dqe_CBVh7L00lCPrECdwEGlDM&appid=wx6c9b3c620c092463",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1603675150,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 1490,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7883023",
+                    "price": 1490
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1841135,
+            "productId": 1841135,
+            "title": "妙洁锡纸",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/MwAKRcIi525qZ42h7NXRRQwJNqsuPRvKdlyzyX5OfMsRPxVKCxUF1WrRJyprHK82?media-id=MwAKRcIi525qZ42h7NXRRQwJNqsuPRvKdlyzyX5OfMsRPxVKCxUF1WrRJyprHK82&appid=wx91d27dbf599dff74",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1603675089,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 1689,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7868664",
+                    "price": 1689
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1837395,
+            "productId": 1837395,
+            "title": "茶花抹布",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/P6GJE5Pz45x_B5uW4XBUX9MPyxf7O2KJlkOJ8bWepuFnN9CQiMHU3PpUNj0JuoQ3?media-id=P6GJE5Pz45x_B5uW4XBUX9MPyxf7O2KJlkOJ8bWepuFnN9CQiMHU3PpUNj0JuoQ3&appid=wxf41deadc7932e4ec",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1603675041,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 2900,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7866779",
+                    "price": 2900
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1833386,
+            "productId": 1833386,
+            "title": "茶花一次性桌布",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/uUf82p729O3xwWc-aEsoLqlzvboCuAN8jn4gu3z7-ReWmzBNFKD_kJCtArO0Yyru?media-id=uUf82p729O3xwWc-aEsoLqlzvboCuAN8jn4gu3z7-ReWmzBNFKD_kJCtArO0Yyru&appid=wx681b1e78da02dd16",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1603674995,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 2290,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7873754",
+                    "price": 2290
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1846874,
+            "productId": 1846874,
+            "title": "茶花保鲜膜",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/Dq_YCTK9FeGElvb3RvMh8zkbGkUcd4RUUGDwG01abcezSb8qAW_Y__Ek6eaeMxw1?media-id=Dq_YCTK9FeGElvb3RvMh8zkbGkUcd4RUUGDwG01abcezSb8qAW_Y__Ek6eaeMxw1&appid=wx25bba907e33848f4",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1603674972,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 1590,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7873753",
+                    "price": 1590
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1837374,
+            "productId": 1837374,
+            "title": "妙洁手提式垃圾袋",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/8OnKTOGgL6uMgjgkNi7GjwT5XFGNM9yUHflkiOBD3nLaDMUxw9InqtQq6xDnwbXz?media-id=8OnKTOGgL6uMgjgkNi7GjwT5XFGNM9yUHflkiOBD3nLaDMUxw9InqtQq6xDnwbXz&appid=wx681b1e78da02dd16",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1603674874,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 20000,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7873751",
+                    "price": 20000
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1845104,
+            "productId": 1845104,
+            "title": "妙洁一次性鞋套",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/ORRbvqEJQQzrnWeZAN8s1cAPw-p31EZdjzxuRjlk1in_m82oRkdSVuoqiphK8Vz2?media-id=ORRbvqEJQQzrnWeZAN8s1cAPw-p31EZdjzxuRjlk1in_m82oRkdSVuoqiphK8Vz2&appid=wx681b1e78da02dd16",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1603674840,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 1000,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7884008",
+                    "price": 1000
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1848319,
+            "productId": 1848319,
+            "title": "永辉一次性一次性纸",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/KWnHIEobOTmKPjnIFsYYchdBnbWwwBBYA23rM9OuO_-nl3XFsM9KC1z1P44IUcAf?media-id=KWnHIEobOTmKPjnIFsYYchdBnbWwwBBYA23rM9OuO_-nl3XFsM9KC1z1P44IUcAf&appid=wx6a9c6bb5caea3512",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1603674773,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 690,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7868656",
+                    "price": 690
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1827992,
+            "productId": 1827992,
+            "title": "一次性保鲜膜",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/iju_by1LDKYpTzPZ-2GMP85sBecjatEdRsx8sNwkcUUA2sNf1JmTabnfpZa_KhVJ?media-id=iju_by1LDKYpTzPZ-2GMP85sBecjatEdRsx8sNwkcUUA2sNf1JmTabnfpZa_KhVJ&appid=wxca1fe42a16552094",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1603674724,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 3990,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7881398",
+                    "price": 3990
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1843127,
+            "productId": 1843127,
+            "title": "南孚碱性电池",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/I53HabkwDxqzetSHQau66NIGTNcqhNfqO4YghrOsmQKRtOWf_buSNWjpy3TnN6r9?media-id=I53HabkwDxqzetSHQau66NIGTNcqhNfqO4YghrOsmQKRtOWf_buSNWjpy3TnN6r9&appid=wx3912d9bd2ab624c3",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1603674695,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 1300,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7873731",
+                    "price": 1300
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1833353,
+            "productId": 1833353,
+            "title": "丰蓝1号燃煤气灶电池",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/hIf5kiAyBvFCg4BAz05hzCjUWDFap3sFIwBCUzabHyrEnIPyKQlwVtAG0bAZJUga?media-id=hIf5kiAyBvFCg4BAz05hzCjUWDFap3sFIwBCUzabHyrEnIPyKQlwVtAG0bAZJUga&appid=wx80be449cda58c7a7",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1603674645,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 660,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7881382",
+                    "price": 660
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1827982,
+            "productId": 1827982,
+            "title": "25度瓶装清洗剂",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/OxtE7678z1rybUn0QyPkCHx1-kkJ9BONEJ0RVVoPEdIeCrNSoNCNunBHVrvwoQHy?media-id=OxtE7678z1rybUn0QyPkCHx1-kkJ9BONEJ0RVVoPEdIeCrNSoNCNunBHVrvwoQHy&appid=wxd9d86cea4b6d4265",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1603674574,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 12500,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7864992",
+                    "price": 12500
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1827981,
+            "productId": 1827981,
+            "title": "南孚NANFU碱性电池",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/rvMElGZh5JoMXGkfuGmSxI6ZOhLK01bPYHB2XFhzw-qVeoMonmAOQwIb0rBQItFS?media-id=rvMElGZh5JoMXGkfuGmSxI6ZOhLK01bPYHB2XFhzw-qVeoMonmAOQwIb0rBQItFS&appid=wx681b1e78da02dd16",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1603674541,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 750,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7872121",
+                    "price": 750
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1829777,
+            "productId": 1829777,
+            "title": "公牛插座",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/Q2K5vFUKHs4m1tGSIDGaAChlaIawZgQ-wYQxwwuwWGdLwYnJI843KVRlEw_IoHoV?media-id=Q2K5vFUKHs4m1tGSIDGaAChlaIawZgQ-wYQxwwuwWGdLwYnJI843KVRlEw_IoHoV&appid=wx91a5f48b2ffeea0d",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1603674497,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 4600,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7864990",
+                    "price": 4600
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1845075,
+            "productId": 1845075,
+            "title": "美丽雅魅惑手提收纳箱",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/nD31yX1keLQ1RFSqqN22mAkTtOMtebaDTZSrNr1zRkLpOZCTVpCfneOkXAbQb9m0?media-id=nD31yX1keLQ1RFSqqN22mAkTtOMtebaDTZSrNr1zRkLpOZCTVpCfneOkXAbQb9m0&appid=wx3912d9bd2ab624c3",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1603674425,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 1989,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7862904",
+                    "price": 1989
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1831562,
+            "productId": 1831562,
+            "title": "茶花收纳箱",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/SwuUi0ymAOFngJwtw5uupQgicSViHC2noJ9D_XcZ8Xd8g_tO2_Mpb509jNu9W-gB?media-id=SwuUi0ymAOFngJwtw5uupQgicSViHC2noJ9D_XcZ8Xd8g_tO2_Mpb509jNu9W-gB&appid=wx91d27dbf599dff74",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1603674393,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 10900,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7872109",
+                    "price": 10900
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1831557,
+            "productId": 1831557,
+            "title": "米菲可爱水彩笔",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/Q8YEK5G9MrvkE5ETaFA60tFlS5znbnVuET0urviSr2hUZvODc1d4q3WRoHlTJKQK?media-id=Q8YEK5G9MrvkE5ETaFA60tFlS5znbnVuET0urviSr2hUZvODc1d4q3WRoHlTJKQK&appid=wx7bb576902363f4ff",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1603674336,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 990,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7864986",
+                    "price": 990
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1831553,
+            "productId": 1831553,
+            "title": "晨光M&G文具素描纸",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/B9Bw730Uw9O8UZUXXl7HUOwMLXR8IuyafQRohYptQePR8LbXU0OwGl7mH8NieNny?media-id=B9Bw730Uw9O8UZUXXl7HUOwMLXR8IuyafQRohYptQePR8LbXU0OwGl7mH8NieNny&appid=wx29b7890177128834",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1603674315,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 800,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7877651",
+                    "price": 800
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1845064,
+            "productId": 1845064,
+            "title": "潘婷护发素",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/hCgTANyGjF_yxxvTOTw9vWnIUr0-G7ju9BEb7NE9jQpFv64ZuEdg1lLJySYAzyCW?media-id=hCgTANyGjF_yxxvTOTw9vWnIUr0-G7ju9BEb7NE9jQpFv64ZuEdg1lLJySYAzyCW&appid=wx681b1e78da02dd16",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1603674268,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 3800,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7872107",
+                    "price": 3800
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1843083,
+            "productId": 1843083,
+            "title": "海飞丝洗发水",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/bYpG_6c_yZyiqLNVJF2lqQwPL7JceOsMVxs1BNY8XNV5OJUYtIlsQH8cojsDfZP2?media-id=bYpG_6c_yZyiqLNVJF2lqQwPL7JceOsMVxs1BNY8XNV5OJUYtIlsQH8cojsDfZP2&appid=wxbe273848adfb7003",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1603674225,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 11400,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7872106",
+                    "price": 11400
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1837319,
+            "productId": 1837319,
+            "title": "阿道夫轻柔洗发乳",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/UBshrlgo0kVl-_LpcShwtZoFwHoEIiSiz9hlIS_nwTVgYsGZXRCjhdueF0KSdLPf?media-id=UBshrlgo0kVl-_LpcShwtZoFwHoEIiSiz9hlIS_nwTVgYsGZXRCjhdueF0KSdLPf&appid=wxcdc13dc8495e174e",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1603674184,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 5800,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7873715",
+                    "price": 5800
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1848271,
+            "productId": 1848271,
+            "title": "佳洁士牙膏",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/NekeoOMOXLi1frxEPEVTc_nBznCUe7bLFVrZuFvSIW9U3EfC7TUJuTxo-6BPBtws?media-id=NekeoOMOXLi1frxEPEVTc_nBznCUe7bLFVrZuFvSIW9U3EfC7TUJuTxo-6BPBtws&appid=wx91d27dbf599dff74",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1603674164,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 3990,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7864979",
+                    "price": 3990
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1835131,
+            "productId": 1835131,
+            "title": "佳洁士牙膏",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/0_ifOp1YjsCcrcPPO87lFr9bEeaOXjWIYDN1zbnn_qNDPj3kzzrZuhPC25cCFNFX?media-id=0_ifOp1YjsCcrcPPO87lFr9bEeaOXjWIYDN1zbnn_qNDPj3kzzrZuhPC25cCFNFX&appid=wx71c176d34a48ac1e",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1603674139,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 6600,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7866753",
+                    "price": 6600
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1845041,
+            "productId": 1845041,
+            "title": "纳爱斯牙刷",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/q4awpYlGMHBZjGzMW7CDXFbyInZHlnosLmCuwvNPUOAsvMBkSi_rmWzGSl1kLMVm?media-id=q4awpYlGMHBZjGzMW7CDXFbyInZHlnosLmCuwvNPUOAsvMBkSi_rmWzGSl1kLMVm&appid=wx681b1e78da02dd16",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1603674080,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 2290,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7873713",
+                    "price": 2290
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1838987,
+            "productId": 1838987,
+            "title": "黑豹延时喷剂",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/uhsOZvTK2zTDhwemK4wN-T62AWwl9t6aWfg6fivJGSCyrD2wyhOyLWfCSPr3fipp?media-id=uhsOZvTK2zTDhwemK4wN-T62AWwl9t6aWfg6fivJGSCyrD2wyhOyLWfCSPr3fipp&appid=wx862d8e26109609cb",
+            "status": 6,
+            "soldNum": 0,
+            "statusText": "最近删除",
+            "statusBigText": "已删除",
+            "editTime": 1603674047,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 0,
+            "totalStockNum": 0,
+            "skuList": [],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1829743,
+            "productId": 1829743,
+            "title": "冈本避孕套",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/3X2ODu8XZwQo2Y6Syrmic1jhYO1emRVWSRirhjOIqQdhHmRTtbUDZt-qM2ZIBKfa?media-id=3X2ODu8XZwQo2Y6Syrmic1jhYO1emRVWSRirhjOIqQdhHmRTtbUDZt-qM2ZIBKfa&appid=wx91d27dbf599dff74",
+            "status": 0,
+            "soldNum": 0,
+            "statusText": "待发布",
+            "statusBigText": "待上架",
+            "editTime": 1603674007,
+            "editStatus": 3,
+            "editStatusText": "审核失败",
+            "price": 7480,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7879530",
+                    "price": 7480
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1843062,
+            "productId": 1843062,
+            "title": "杰士邦避孕套",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/tin9c18yhceera6n1oe2tEcNxpsUw2kq0vwGQt0PFkSMJ0-f83TVS9nnu2Hivjli?media-id=tin9c18yhceera6n1oe2tEcNxpsUw2kq0vwGQt0PFkSMJ0-f83TVS9nnu2Hivjli&appid=wx91d27dbf599dff74",
+            "status": 0,
+            "soldNum": 0,
+            "statusText": "待发布",
+            "statusBigText": "待上架",
+            "editTime": 1603673985,
+            "editStatus": 3,
+            "editStatusText": "审核失败",
+            "price": 2500,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7864978",
+                    "price": 2500
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1835112,
+            "productId": 1835112,
+            "title": "杜蕾斯活力装",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/Cn_I0BgdF-GWE1Jqbc5lgRv6VUuIyfLkaToAlGIejlatBP_SehXJfyCcXFuourtg?media-id=Cn_I0BgdF-GWE1Jqbc5lgRv6VUuIyfLkaToAlGIejlatBP_SehXJfyCcXFuourtg&appid=wx8b34b4c7b093cb82",
+            "status": 0,
+            "soldNum": 0,
+            "statusText": "待发布",
+            "statusBigText": "待上架",
+            "editTime": 1603673817,
+            "editStatus": 3,
+            "editStatusText": "审核失败",
+            "price": 5900,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7877637",
+                    "price": 5900
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1843057,
+            "productId": 1843057,
+            "title": "杜蕾斯避孕套",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/xTL-8dH2PKOxN_f-s-zH7fIPKV3NWODzKJT5K4bIkRgl8bl9TmgAV-oBYUnZNVcx?media-id=xTL-8dH2PKOxN_f-s-zH7fIPKV3NWODzKJT5K4bIkRgl8bl9TmgAV-oBYUnZNVcx&appid=wx91d27dbf599dff74",
+            "status": 0,
+            "soldNum": 0,
+            "statusText": "待发布",
+            "statusBigText": "待上架",
+            "editTime": 1603673791,
+            "editStatus": 3,
+            "editStatusText": "审核失败",
+            "price": 6980,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7877635",
+                    "price": 6980
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1837300,
+            "productId": 1837300,
+            "title": "AiR持久安全套",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/DdTsm8icy0d55eQRT7k9XWw1MjLatCCwM6JfpF6cFpkwpJ2CpHTVSWkrpNS7dwII?media-id=DdTsm8icy0d55eQRT7k9XWw1MjLatCCwM6JfpF6cFpkwpJ2CpHTVSWkrpNS7dwII&appid=wxf426f20f8d5cb9e7",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1603673765,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 9900,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7877634",
+                    "price": 9900
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1837297,
+            "productId": 1837297,
+            "title": "妙洁厨房抹布",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/xx0VqTqdZyP5_FdY2ZBvOGe5z10em4MVUeCPOWT335USZBIuEMcwBepezH2Rebw7?media-id=xx0VqTqdZyP5_FdY2ZBvOGe5z10em4MVUeCPOWT335USZBIuEMcwBepezH2Rebw7&appid=wx681b1e78da02dd16",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1603673730,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 9140,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7860967",
+                    "price": 9140
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1831515,
+            "productId": 1831515,
+            "title": "妙洁垃圾袋",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/w2TTnEixQzlXMgYIGDkTUdVDZ2Qn6T9mXFVyAU0K99nwKXCotkL8AC2eCLoyShu6?media-id=w2TTnEixQzlXMgYIGDkTUdVDZ2Qn6T9mXFVyAU0K99nwKXCotkL8AC2eCLoyShu6&appid=wx314dd070d881531f",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1603673709,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 1300,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7868612",
+                    "price": 1300
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1841024,
+            "productId": 1841024,
+            "title": "美丽雅强韧垃圾袋",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/ROsQOCQUSnQuJmMXvgcx_OM8k_3zc_u3fgAD4yWF5mwheTbp2Z2ZMPojob_zBs5M?media-id=ROsQOCQUSnQuJmMXvgcx_OM8k_3zc_u3fgAD4yWF5mwheTbp2Z2ZMPojob_zBs5M&appid=wx91d27dbf599dff74",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1603673683,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 9900,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7868611",
+                    "price": 9900
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1837292,
+            "productId": 1837292,
+            "title": "美丽雅强韧手套",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/x5gg4yVq7f1-paNb1u8TZNy8GfmTbVYdi5cy06yLAQw23Wi3Lln1Ewr8mM9ei9Gi?media-id=x5gg4yVq7f1-paNb1u8TZNy8GfmTbVYdi5cy06yLAQw23Wi3Lln1Ewr8mM9ei9Gi&appid=wx9cc295d54f050c31",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1603673645,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 1290,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7872092",
+                    "price": 1290
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1846786,
+            "productId": 1846786,
+            "title": "妙洁清洁抹布",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/4kiqCM1Gh3_-aPnJ_nJEi8pYkbCE5RhdhSwFfTVY-RuVtrlQ0cWj09_cB4enFy_7?media-id=4kiqCM1Gh3_-aPnJ_nJEi8pYkbCE5RhdhSwFfTVY-RuVtrlQ0cWj09_cB4enFy_7&appid=wxbff87cc25bc11305",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1603673617,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 990,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7870327",
+                    "price": 990
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1833292,
+            "productId": 1833292,
+            "title": "心相缘xinxiangyuan塑料收纳箱",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/8QSi69wRCj92jedghG8tWMab37_GVsFH-qscC5BxfEJ-qGIgm5M3FyGs5LZk86I3?media-id=8QSi69wRCj92jedghG8tWMab37_GVsFH-qscC5BxfEJ-qGIgm5M3FyGs5LZk86I3&appid=wx681b1e78da02dd16",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1603673596,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 5000,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7872090",
+                    "price": 5000
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1833289,
+            "productId": 1833289,
+            "title": "美丽雅垃圾袋",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/700TTVLod5vd6ndbUqiVY7NL63FUWuWTIqHvgQPYlJdJewbVBuX80YbHVJqwtRx9?media-id=700TTVLod5vd6ndbUqiVY7NL63FUWuWTIqHvgQPYlJdJewbVBuX80YbHVJqwtRx9&appid=wx83b25ac313aea733",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1603673545,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 3990,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7879516",
+                    "price": 3990
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1845007,
+            "productId": 1845007,
+            "title": "妙洁百洁布",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/JL8Ee3I0gzr26Lm3A9ZCJK6_0WNBeOmzhWzrzo7PPmyygJ0nC6NDnC8zgCzNQ-10?media-id=JL8Ee3I0gzr26Lm3A9ZCJK6_0WNBeOmzhWzrzo7PPmyygJ0nC6NDnC8zgCzNQ-10&appid=wx681b1e78da02dd16",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1603673524,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 880,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7872088",
+                    "price": 880
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1142871,
+            "productId": 1142871,
+            "title": "康师傅红烧牛肉方便面",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/yJJoOj8U85DT11U-VCcWza7_KdUmUp9TcOIMwoLvqywygRS0t3ExGpa_ZxIKkk3d?media-id=yJJoOj8U85DT11U-VCcWza7_KdUmUp9TcOIMwoLvqywygRS0t3ExGpa_ZxIKkk3d&appid=wxcf0b7d1e5640776f",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1603496285,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 500,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "6712665",
+                    "price": 500
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1640739,
+            "productId": 1640739,
+            "title": "卫龙辣条",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/Gn4qrovjddtEr8L0JY85FJQpuWz2c4JLcFbbYA8OB5kxhEyV1fLAKoc8BDOlPyrD?media-id=Gn4qrovjddtEr8L0JY85FJQpuWz2c4JLcFbbYA8OB5kxhEyV1fLAKoc8BDOlPyrD&appid=wxba0f8fa98693c52c",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1603496187,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 100,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7746913",
+                    "price": 100
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1648466,
+            "productId": 1648466,
+            "title": "红牛饮料",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/EwDqHmY3q1H9NDH2Z_MSfbydVqoRJ2LjsS1g_4t-8hzYquJhCUNZfxLxPLEgjaGQ?media-id=EwDqHmY3q1H9NDH2Z_MSfbydVqoRJ2LjsS1g_4t-8hzYquJhCUNZfxLxPLEgjaGQ&appid=wx2d570ea3dfbddaf3",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1603496165,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 600,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7746912",
+                    "price": 600
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1640735,
+            "productId": 1640735,
+            "title": "脉动青柠",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/qYFGaZ4oj9C_wgwue2ImlONo6_c9nMwv2pmajdeeI95LSfJ9taxgOuBYQgN8_EOl?media-id=qYFGaZ4oj9C_wgwue2ImlONo6_c9nMwv2pmajdeeI95LSfJ9taxgOuBYQgN8_EOl&appid=wx91d27dbf599dff74",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1603496147,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 400,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7750016",
+                    "price": 400
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1439544,
+            "productId": 1439544,
+            "title": "爱他美配方奶粉",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/JELY2p6GBW7apDrqVxzo6YTNptThYHMtD30evZRjbJr6336csJJAdW_rdknQWy5d?media-id=JELY2p6GBW7apDrqVxzo6YTNptThYHMtD30evZRjbJr6336csJJAdW_rdknQWy5d&appid=wxe9714e742209d35f",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1603333024,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 4294967295,
+            "totalStockNum": 0,
+            "skuList": [],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1334296,
+            "productId": 1334296,
+            "title": "羊羊羊羊奶粉",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/PoEJNAa65nDXR1ZD9MHSxIuX6zFEXjkm3b1mTcFQBdRMXnXMS7Mz6WXX_wkM6-I2?media-id=PoEJNAa65nDXR1ZD9MHSxIuX6zFEXjkm3b1mTcFQBdRMXnXMS7Mz6WXX_wkM6-I2&appid=wx91d27dbf599dff74",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1603157047,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 36800,
+            "totalStockNum": 2997,
+            "skuList": [
+                {
+                    "skuId": "7471709",
+                    "price": 36800
+                },
+                {
+                    "skuId": "7469882",
+                    "price": 36800
+                },
+                {
+                    "skuId": "7473631",
+                    "price": 36800
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1325014,
+            "productId": 1325014,
+            "title": "爱他美配方奶粉",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/JELY2p6GBW7apDrqVxzo6YTNptThYHMtD30evZRjbJr6336csJJAdW_rdknQWy5d?media-id=JELY2p6GBW7apDrqVxzo6YTNptThYHMtD30evZRjbJr6336csJJAdW_rdknQWy5d&appid=wxe9714e742209d35f",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1603156881,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 26800,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7469958",
+                    "price": 26800
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1321244,
+            "productId": 1321244,
+            "title": "启赋幼儿配方奶粉",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/MNKQw57_qj6DENEsi0_3BhhoHiaWUMx6eLww0jWWB__5Ndo-OJc7TNLXXocUEpFi?media-id=MNKQw57_qj6DENEsi0_3BhhoHiaWUMx6eLww0jWWB__5Ndo-OJc7TNLXXocUEpFi&appid=wxc3bb8c8b99453161",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1603156235,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 42900,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7464492",
+                    "price": 42900
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1321243,
+            "productId": 1321243,
+            "title": "羊羊羊羊奶粉",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/PjOqKCkuB_zER6LlohWnbqUXZ7aXm5ih43C1QzCEuZ-e5mod9eV4Rk9eNUCaqGZu?media-id=PjOqKCkuB_zER6LlohWnbqUXZ7aXm5ih43C1QzCEuZ-e5mod9eV4Rk9eNUCaqGZu&appid=wx91d27dbf599dff74",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1603156171,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 66800,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7469934",
+                    "price": 66800
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1317592,
+            "productId": 1317592,
+            "title": "飞鹤智纯奶粉",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/Ti8BZbwD2cR3ZNeUDlivzYkiCTunsUpB9kqUYzMYprjE3s29YoE1nX9gzABjdA9n?media-id=Ti8BZbwD2cR3ZNeUDlivzYkiCTunsUpB9kqUYzMYprjE3s29YoE1nX9gzABjdA9n&appid=wx1986d5540f3e3b6c",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1603155973,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 35100,
+            "totalStockNum": 2997,
+            "skuList": [
+                {
+                    "skuId": "7462401",
+                    "price": 35100
+                },
+                {
+                    "skuId": "7460714",
+                    "price": 35100
+                },
+                {
+                    "skuId": "7462402",
+                    "price": 35100
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1317023,
+            "productId": 1317023,
+            "title": "飞鹤婴儿配方奶粉",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/LBjAPGhoBi237oNyex1H0FhB9_Jt0eZ_hTQYCML9eFZaHDe-Cs1tV6wgWd9tR87u?media-id=LBjAPGhoBi237oNyex1H0FhB9_Jt0eZ_hTQYCML9eFZaHDe-Cs1tV6wgWd9tR87u&appid=wx2c348cf579062e56",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1603112080,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 24900,
+            "totalStockNum": 2997,
+            "skuList": [
+                {
+                    "skuId": "7440968",
+                    "price": 24900
+                },
+                {
+                    "skuId": "7453980",
+                    "price": 24900
+                },
+                {
+                    "skuId": "7459188",
+                    "price": 24900
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1261158,
+            "productId": 1261158,
+            "title": "好多鱼脆脆饼",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/tk8GH0oVVBRrrhsc86HGJjquqeRIHirh9YV89_gXBQGUtiRCwcnU1ezq7z2IyQYY?media-id=tk8GH0oVVBRrrhsc86HGJjquqeRIHirh9YV89_gXBQGUtiRCwcnU1ezq7z2IyQYY&appid=wxd1ba3d0937058e6f",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1603111727,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 490,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7248670",
+                    "price": 490
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1311784,
+            "productId": 1311784,
+            "title": "雀巢配方配方奶粉",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/TzD9QPFkq1RazZcWXmp-uO5-XM-FprkuS6LQ_sD5lvwelusQO2bTFjxINbD1zmyi?media-id=TzD9QPFkq1RazZcWXmp-uO5-XM-FprkuS6LQ_sD5lvwelusQO2bTFjxINbD1zmyi&appid=wx41cf2b0f5475c181",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1603111252,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 15000,
+            "totalStockNum": 2997,
+            "skuList": [
+                {
+                    "skuId": "7444806",
+                    "price": 15000
+                },
+                {
+                    "skuId": "7459177",
+                    "price": 15000
+                },
+                {
+                    "skuId": "7446490",
+                    "price": 15000
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1249868,
+            "productId": 1249868,
+            "title": "高洁丝Kotex放肆卫生巾",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/KQ-KzaY8LZz24Eeo3TrjHECBSIir313KMZ5ReLMjcZt-17AtdSCbxLsaUTB6l7Em?media-id=KQ-KzaY8LZz24Eeo3TrjHECBSIir313KMZ5ReLMjcZt-17AtdSCbxLsaUTB6l7Em&appid=wxbe273848adfb7003",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1602892584,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 1300,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7248709",
+                    "price": 1300
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1249867,
+            "productId": 1249867,
+            "title": "依云天然矿泉水",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/Lia9X5EmrV3bAkIQobl5LdyZ5FjKDYXl9KyPs5PaJW2zc_Nehp3Gl70v7IhkLPHX?media-id=Lia9X5EmrV3bAkIQobl5LdyZ5FjKDYXl9KyPs5PaJW2zc_Nehp3Gl70v7IhkLPHX&appid=wx91d27dbf599dff74",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1602892557,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 680,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7265716",
+                    "price": 680
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1263113,
+            "productId": 1263113,
+            "title": "格力高饼干",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/ypeEu6Y0v_KR7I_G04FsLC27rDk8od0y_OpXuvRr1_OVrN2NHf79HVU6DJH-jG36?media-id=ypeEu6Y0v_KR7I_G04FsLC27rDk8od0y_OpXuvRr1_OVrN2NHf79HVU6DJH-jG36&appid=wx56c5d93539dc668b",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1602892523,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 550,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7250328",
+                    "price": 550
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1251460,
+            "productId": 1251460,
+            "title": "奥利奥夹心巧克力",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/MwRE2il9PM9Dkhe5BW0xvHZo8b4SsVJ56L6dd0cPclRp5yFlcKK8RTL3lJQt1h_v?media-id=MwRE2il9PM9Dkhe5BW0xvHZo8b4SsVJ56L6dd0cPclRp5yFlcKK8RTL3lJQt1h_v&appid=wx681b1e78da02dd16",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1602892497,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 600,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7250327",
+                    "price": 600
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1266680,
+            "productId": 1266680,
+            "title": "高洁丝纤巧卫生巾",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/C6YIqgSkG0VgSMbtehab4-TsdKxkUFFPvYvAi2406V5fJeZO4N6akfwUUz44Z8Sn?media-id=C6YIqgSkG0VgSMbtehab4-TsdKxkUFFPvYvAi2406V5fJeZO4N6akfwUUz44Z8Sn&appid=wxbe273848adfb7003",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1602892468,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 1000,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7262048",
+                    "price": 1000
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1263112,
+            "productId": 1263112,
+            "title": "柠檬茶",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/dpXD1c-TQUsEts1GX6ls4AoQnKgVeGSjPaE9yX-QkpUN2B99TN5tdDyfhauPsat5?media-id=dpXD1c-TQUsEts1GX6ls4AoQnKgVeGSjPaE9yX-QkpUN2B99TN5tdDyfhauPsat5&appid=wxbc450169cea641ae",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1602892442,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 400,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7259775",
+                    "price": 400
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1255546,
+            "productId": 1255546,
+            "title": "椰树椰汁",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/fc9xDmOa7DTdCTlct6Jw_6M7xwXHOTa49KOsqs201W16WpxH_wLds6QKL7hXX8cD?media-id=fc9xDmOa7DTdCTlct6Jw_6M7xwXHOTa49KOsqs201W16WpxH_wLds6QKL7hXX8cD&appid=wx8ffb935a1e334d9d",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1602892386,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 500,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7254245",
+                    "price": 500
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1263111,
+            "productId": 1263111,
+            "title": "椰树椰汁",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/kwyjpKWhqWAEhwgQlF4FMrWhlx0V7PWtO3EPtpify88GMR2VAyctZ5EC8Xtx1_m1?media-id=kwyjpKWhqWAEhwgQlF4FMrWhlx0V7PWtO3EPtpify88GMR2VAyctZ5EC8Xtx1_m1&appid=wxce699e7b9a1febe7",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1602892357,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 1500,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7259771",
+                    "price": 1500
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1268208,
+            "productId": 1268208,
+            "title": "薯愿好丽友薯片",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/Esp7oNUKkWZ8CxLvZqBJIloWR_vmbOLNOAX0wRn5e99IRjgyJK0eixyI_w0IA0Ea?media-id=Esp7oNUKkWZ8CxLvZqBJIloWR_vmbOLNOAX0wRn5e99IRjgyJK0eixyI_w0IA0Ea&appid=wxd1ba3d0937058e6f",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1602892335,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 1590,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7254242",
+                    "price": 1590
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1263110,
+            "productId": 1263110,
+            "title": "乌江清淡榨菜",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/rNg7cikBi_fcf21GGA5zK4i7o3fitwQiksSF0PGKMGhxiFcUSvP13iZirOXbBM6M?media-id=rNg7cikBi_fcf21GGA5zK4i7o3fitwQiksSF0PGKMGhxiFcUSvP13iZirOXbBM6M&appid=wxa63f21c6a752de4e",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1602892288,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 200,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7265714",
+                    "price": 200
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1255545,
+            "productId": 1255545,
+            "title": "哈尔滨小麦啤酒",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/KKNZZ7NxhoSz6LlYY7Z-dXQ55Fvc07GwQGPLeU6NJNNjiQjpf7EInNovqTnIGPXP?media-id=KKNZZ7NxhoSz6LlYY7Z-dXQ55Fvc07GwQGPLeU6NJNNjiQjpf7EInNovqTnIGPXP&appid=wx2c348cf579062e56",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1602892263,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 990,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7252140",
+                    "price": 990
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1268204,
+            "productId": 1268204,
+            "title": "乐事无限薯片",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/jeSoZUCapEEZ2YeAUSmOiYv5Kev540dW48GAxfHyEOjQlVbyixjiCcjSDGZP1B0t?media-id=jeSoZUCapEEZ2YeAUSmOiYv5Kev540dW48GAxfHyEOjQlVbyixjiCcjSDGZP1B0t&appid=wx587fbcd7b8fed3e0",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1602892232,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 850,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7255847",
+                    "price": 850
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1251456,
+            "productId": 1251456,
+            "title": "统一鲜橙多橙汁",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/wTwRP_wA68UpzcCeuY-DsELbT5it66TrziewGMcGsSs9vvl3QbVCTRjtNqu1yu1Q?media-id=wTwRP_wA68UpzcCeuY-DsELbT5it66TrziewGMcGsSs9vvl3QbVCTRjtNqu1yu1Q&appid=wx681b1e78da02dd16",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1602892208,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 3400,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7263490",
+                    "price": 3400
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1251455,
+            "productId": 1251455,
+            "title": "康师傅方便面",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/tf1cSlpWz_T0a8LhuR3ZUFacOKcqjOqQ2WMW7uyXUprkmQx761S7iydvmVWAH_iT?media-id=tf1cSlpWz_T0a8LhuR3ZUFacOKcqjOqQ2WMW7uyXUprkmQx761S7iydvmVWAH_iT&appid=wx4b74228baa15489a",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1602892175,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 400,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7269088",
+                    "price": 400
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1261155,
+            "productId": 1261155,
+            "title": "美汁源饮料",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/wnd2JiJ7S33uyzJnI_9por-zNLcpVYRMcMRxq4sjoG4YqscUB2tbVdElRwQ1GUVv?media-id=wnd2JiJ7S33uyzJnI_9por-zNLcpVYRMcMRxq4sjoG4YqscUB2tbVdElRwQ1GUVv&appid=wx91d27dbf599dff74",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1602892145,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 400,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7262013",
+                    "price": 400
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1263108,
+            "productId": 1263108,
+            "title": "百奇巧克力",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/MBDQhrCrusgHaFEp8A4QCaDSEdGsYttjtunb96ZrZY3qyCQquMwIq54PPbW1An33?media-id=MBDQhrCrusgHaFEp8A4QCaDSEdGsYttjtunb96ZrZY3qyCQquMwIq54PPbW1An33&appid=wxd3e4956cce8212c0",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1602892108,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 650,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7248667",
+                    "price": 650
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1249863,
+            "productId": 1249863,
+            "title": "ABC日用卫生巾",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/3sz-DjhpMYJnhsQnuIzWxt9TLmlUgLWMyeLVfaMuLkguh-U0vxW5Ge7WzATpx95A?media-id=3sz-DjhpMYJnhsQnuIzWxt9TLmlUgLWMyeLVfaMuLkguh-U0vxW5Ge7WzATpx95A&appid=wx3e2014cbc74cb986",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1602892083,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 7700,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7262011",
+                    "price": 7700
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1266676,
+            "productId": 1266676,
+            "title": "德芙混合麦片",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/hZNu-Hpqtl4c6VKC0XQSK-5x5NK452BqAf8-itrpRohraeAgOC5PykkDei93cW2I?media-id=hZNu-Hpqtl4c6VKC0XQSK-5x5NK452BqAf8-itrpRohraeAgOC5PykkDei93cW2I&appid=wxed8dce15ef4afa9c",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1602892026,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 400,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7262010",
+                    "price": 400
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1249861,
+            "productId": 1249861,
+            "title": "太平梳打饼",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/0GfLMxBE1-eB3evkZuazyXICRLsy1rfaXa-VNdqj9U6IqEwfilGMTR6TVMXKzwXs?media-id=0GfLMxBE1-eB3evkZuazyXICRLsy1rfaXa-VNdqj9U6IqEwfilGMTR6TVMXKzwXs&appid=wx795d251d5a48c2ef",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1602892002,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 300,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7259698",
+                    "price": 300
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1257384,
+            "productId": 1257384,
+            "title": "双汇美味香肠",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/-hiezcDsYjGDt40DED6hsV1BEQwxTvLZtiw9yKmwJ7xwRB0f3UcNj10ElBXsRevY?media-id=-hiezcDsYjGDt40DED6hsV1BEQwxTvLZtiw9yKmwJ7xwRB0f3UcNj10ElBXsRevY&appid=wx91d27dbf599dff74",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1602891981,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 10690,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7252103",
+                    "price": 10690
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1203389,
+            "productId": 1203389,
+            "title": "绿箭薄荷糖",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/fSIRwT06i7yLQsJN4qnEdH2UtrRTFr4DOh9Ebrswqo3iWIeoSoCSIMTgTYzieoq7?media-id=fSIRwT06i7yLQsJN4qnEdH2UtrRTFr4DOh9Ebrswqo3iWIeoSoCSIMTgTYzieoq7&appid=wx91d27dbf599dff74",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1602799956,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 4290,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7068634",
+                    "price": 4290
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1207547,
+            "productId": 1207547,
+            "title": "乐事无限薯片",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/36w3E7I_7dRtAttEvdtmXgtsaDuhRLzNAWtrJ12_2JSV9S5tSMuhPajGuymVy5Db?media-id=36w3E7I_7dRtAttEvdtmXgtsaDuhRLzNAWtrJ12_2JSV9S5tSMuhPajGuymVy5Db&appid=wx4b74228baa15489a",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1602732021,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 850,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7089609",
+                    "price": 850
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1213165,
+            "productId": 1213165,
+            "title": "好丽友红豆麻薯",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/Kc34rwQ3UWV1Z8axI8lHbvf-l_gFQTF51j2M67w6CrauJxChu-wEFAH-XaPJ7Hdw?media-id=Kc34rwQ3UWV1Z8axI8lHbvf-l_gFQTF51j2M67w6CrauJxChu-wEFAH-XaPJ7Hdw&appid=wxd1ba3d0937058e6f",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1602731989,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 2100,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7076572",
+                    "price": 2100
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1220396,
+            "productId": 1220396,
+            "title": "乐事薯片",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/e-NQ1Fk1Cnxv5_egeUgL1CjMCnH6XLaxFLzfzhtNvoS71yI1KJr-Yh6opLniFqNX?media-id=e-NQ1Fk1Cnxv5_egeUgL1CjMCnH6XLaxFLzfzhtNvoS71yI1KJr-Yh6opLniFqNX&appid=wxa9de4255a606d3d2",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1602728595,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 650,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7070684",
+                    "price": 650
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1205395,
+            "productId": 1205395,
+            "title": "格力高盒装饼干",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/knfQxYKbtK8wHomQAJcRv985iiMJn2lPQsyI0IpMktVc33_iQsFOKNwXqZGNH4xi?media-id=knfQxYKbtK8wHomQAJcRv985iiMJn2lPQsyI0IpMktVc33_iQsFOKNwXqZGNH4xi&appid=wx91d27dbf599dff74",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1602728565,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 3400,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7079579",
+                    "price": 3400
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1216783,
+            "productId": 1216783,
+            "title": "乐事薯片",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/USInq759fTR0kNKFtjEykcQLHaBodmuEV-iezgVvIw00_frK5SgS-a9sWf_4l0Du?media-id=USInq759fTR0kNKFtjEykcQLHaBodmuEV-iezgVvIw00_frK5SgS-a9sWf_4l0Du&appid=wx91d27dbf599dff74",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1602728545,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 990,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7068709",
+                    "price": 990
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1203431,
+            "productId": 1203431,
+            "title": "绿箭薄荷糖",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/R1CBrY5brAE76IXvrkJgBytydqhvaZ9TPc5xrZ0hcaqLTjIVAen1PAqyuoGk__QF?media-id=R1CBrY5brAE76IXvrkJgBytydqhvaZ9TPc5xrZ0hcaqLTjIVAen1PAqyuoGk__QF&appid=wx351a2fffa2775035",
+            "status": 6,
+            "soldNum": 0,
+            "statusText": "最近删除",
+            "statusBigText": "已删除",
+            "editTime": 1602728525,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 4290,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7060945",
+                    "price": 4290
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1220391,
+            "productId": 1220391,
+            "title": "乐事原味薯片",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/-YRuskEIEftUqfk674L-PVTnS9HsK9B-_cScESeMc29UbbmnTp8oZfklTIfN5wJ4?media-id=-YRuskEIEftUqfk674L-PVTnS9HsK9B-_cScESeMc29UbbmnTp8oZfklTIfN5wJ4&appid=wx25bba907e33848f4",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1602728504,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 990,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "7060943",
+                    "price": 990
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1216563,
+            "productId": 1216563,
+            "title": "婴儿鞋子",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/IxMWLbI1AZMxysupUM3HtJvz7f5no8z8E1eU_K1aj0WO65uxNa37gFX1CSy5YXji?media-id=IxMWLbI1AZMxysupUM3HtJvz7f5no8z8E1eU_K1aj0WO65uxNa37gFX1CSy5YXji&appid=wxd1ba3d0937058e6f",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1602719432,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 1000,
+            "totalStockNum": 1998,
+            "skuList": [
+                {
+                    "skuId": "7075613",
+                    "price": 1000
+                },
+                {
+                    "skuId": "7056995",
+                    "price": 2000
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1016790,
+            "productId": 1016790,
+            "title": "俏代美黑色鞋油",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/csJILyutaONAKCQg2s7HVSGGOyniemK6EznKQgGHJEjsu-_jF9pKAcznvvkH8W3Y?media-id=csJILyutaONAKCQg2s7HVSGGOyniemK6EznKQgGHJEjsu-_jF9pKAcznvvkH8W3Y&appid=wx91d27dbf599dff74",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1601959937,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 1300,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "6248883",
+                    "price": 1300
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 992250,
+            "productId": 992250,
+            "title": "七喜百事可乐荣誉出品汽水",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/FVNxsbHzI9fpPFaRuBpAQqOeCx-VSFXQeaPVzCP9OrdByBQpd7utEMRKusX57Q1E?media-id=FVNxsbHzI9fpPFaRuBpAQqOeCx-VSFXQeaPVzCP9OrdByBQpd7utEMRKusX57Q1E&appid=wx92e6463a32baf0c2",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1601817009,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 1,
+            "totalStockNum": 333,
+            "skuList": [
+                {
+                    "skuId": "6153809",
+                    "price": 1
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 999296,
+            "productId": 999296,
+            "title": "厨美圆形蒸笼",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/YXAj-dRrGzLxY1Fk5J8sSxZFRbzZVM2d6F9zDnTAs-aKNk0j9ipGFvIdTXYJPZVH?media-id=YXAj-dRrGzLxY1Fk5J8sSxZFRbzZVM2d6F9zDnTAs-aKNk0j9ipGFvIdTXYJPZVH&appid=wx8f4ba17d7b77a1df",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1601816916,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 1,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "6194255",
+                    "price": 1
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 991118,
+            "productId": 991118,
+            "title": "宝富利不锈钢指甲钳",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/EpiItwZjxLnvb9NuFNxnAtNp44aDCB9hCUxroKCDqPQwj6kk8EQZr3ZNuWBR49jz?media-id=EpiItwZjxLnvb9NuFNxnAtNp44aDCB9hCUxroKCDqPQwj6kk8EQZr3ZNuWBR49jz&appid=wxca1fe42a16552094",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1601815504,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 2300,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "6188865",
+                    "price": 2300
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 995338,
+            "productId": 995338,
+            "title": "金磨坊鱼豆腐",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/S6-0Z5Tk_347Sw3v54NLYI4uqHqO4z00d7Bp5TrWOOpUUOVlW0qL_sEx0SBxNffC?media-id=S6-0Z5Tk_347Sw3v54NLYI4uqHqO4z00d7Bp5TrWOOpUUOVlW0qL_sEx0SBxNffC&appid=wxb2cc06055c03e3ea",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1601815268,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 990,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "6184864",
+                    "price": 990
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1003135,
+            "productId": 1003135,
+            "title": "妇炎洁私处洗液",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/BtEYHMndqfZxSCtkn_isfjFNVguFnqgfF5Ajnp2HJlBXLVHgqhFIF-l2__lqbPDc?media-id=BtEYHMndqfZxSCtkn_isfjFNVguFnqgfF5Ajnp2HJlBXLVHgqhFIF-l2__lqbPDc&appid=wx862d8e26109609cb",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1601815181,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 3500,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "6186982",
+                    "price": 3500
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1005027,
+            "productId": 1005027,
+            "title": "佳洁士五彩牙刷",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/nmwFHMfV5FcMtfu1QgMRzEmguKHo60Bb3D6op9EPcPW-z6gKcH0PTOl_CuBSzF11?media-id=nmwFHMfV5FcMtfu1QgMRzEmguKHo60Bb3D6op9EPcPW-z6gKcH0PTOl_CuBSzF11&appid=wx681b1e78da02dd16",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1601815139,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 1910,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "6188854",
+                    "price": 1910
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 983724,
+            "productId": 983724,
+            "title": "七度空间纯棉卫生巾",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/LQleO-r4Kw1ZZ2ALGQ9HVEet-wv9ngvOpA7nN3qD_FdaDSg5EGG1XOnT15gKwtyL?media-id=LQleO-r4Kw1ZZ2ALGQ9HVEet-wv9ngvOpA7nN3qD_FdaDSg5EGG1XOnT15gKwtyL&appid=wx91d27dbf599dff74",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1601815080,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 860,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "6196122",
+                    "price": 860
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 997188,
+            "productId": 997188,
+            "title": "舒肤佳清香香皂",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/JQM62jwtBkTf4hM2D5XtWaiTuc7E73z9QWtqI3cmCj25XdOZV1C5OlPUkMrrt0LG?media-id=JQM62jwtBkTf4hM2D5XtWaiTuc7E73z9QWtqI3cmCj25XdOZV1C5OlPUkMrrt0LG&appid=wxe802afe1f9309927",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1601815004,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 580,
+            "totalStockNum": 999,
+            "skuList": [
+                {
+                    "skuId": "6198056",
+                    "price": 580
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1004929,
+            "productId": 1004929,
+            "title": "蓝月亮抑菌洗手液",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/vM8Jud2SOJxiVIMtgUrRWBZZTvv_U3pZxRu7KXXlJQIwRkuYxIByj1cx_VTIOTqI?media-id=vM8Jud2SOJxiVIMtgUrRWBZZTvv_U3pZxRu7KXXlJQIwRkuYxIByj1cx_VTIOTqI&appid=wxca1fe42a16552094",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1601808064,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 890,
+            "totalStockNum": 99,
+            "skuList": [
+                {
+                    "skuId": "6180793",
+                    "price": 890
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1001127,
+            "productId": 1001127,
+            "title": "吉屋洗衣洗衣液",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/nhiIJTssSzHLLtkKNUbhk5raDOkFMFvHLREFT2YtPNA_NI5yYv0uWkDoRLzSGoTk?media-id=nhiIJTssSzHLLtkKNUbhk5raDOkFMFvHLREFT2YtPNA_NI5yYv0uWkDoRLzSGoTk&appid=wx91d27dbf599dff74",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1601806729,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 1680,
+            "totalStockNum": 99,
+            "skuList": [
+                {
+                    "skuId": "6180709",
+                    "price": 1680
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 993193,
+            "productId": 993193,
+            "title": "魅肤沐浴露",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/kmUthQw2H4RW7JJ6G5eVYrxNEQG30gjToqXwCbtCrb-DGlX8II2JiYDPQ21xwjQw?media-id=kmUthQw2H4RW7JJ6G5eVYrxNEQG30gjToqXwCbtCrb-DGlX8II2JiYDPQ21xwjQw&appid=wx681b1e78da02dd16",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1601806680,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 3990,
+            "totalStockNum": 99,
+            "skuList": [
+                {
+                    "skuId": "6180707",
+                    "price": 3990
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 997075,
+            "productId": 997075,
+            "title": "维达抽纸",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/vRGcTqQdgRoHBONAR28hvPIFp1jJ-rZ1qSQCbcPHLwZ9280UWKEIUS1Mz0O-j-iB?media-id=vRGcTqQdgRoHBONAR28hvPIFp1jJ-rZ1qSQCbcPHLwZ9280UWKEIUS1Mz0O-j-iB&appid=wx681b1e78da02dd16",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1601806637,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 6290,
+            "totalStockNum": 99,
+            "skuList": [
+                {
+                    "skuId": "6184478",
+                    "price": 6290
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 991002,
+            "productId": 991002,
+            "title": "蓝月亮滋润洗手液",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/2Qrp_Sm6MOZ-hIoM25JpdFGActyJl0q9CSC-v8f30sZvHYyKf8Ey0Vc4WoOkxA4H?media-id=2Qrp_Sm6MOZ-hIoM25JpdFGActyJl0q9CSC-v8f30sZvHYyKf8Ey0Vc4WoOkxA4H&appid=wx1f6afec656a4b7e4",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1601806589,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 1989,
+            "totalStockNum": 99,
+            "skuList": [
+                {
+                    "skuId": "6180703",
+                    "price": 1989
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 997074,
+            "productId": 997074,
+            "title": "俏代美清洁剂",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/JLjVvaxFyPjqXS1Fe6XiBSj9xyHNaPf_NB9xBiVL8Vhlib1qsWcrA40uMap9IVdt?media-id=JLjVvaxFyPjqXS1Fe6XiBSj9xyHNaPf_NB9xBiVL8Vhlib1qsWcrA40uMap9IVdt&appid=wxca1fe42a16552094",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1601806543,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 1800,
+            "totalStockNum": 99,
+            "skuList": [
+                {
+                    "skuId": "6192255",
+                    "price": 1800
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 993189,
+            "productId": 993189,
+            "title": "自然堂CHANDO卸妆水",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/RifgGrN7ULa2VvPyimX9vzgpw3U56RQ0XtSfRHuc2JyZX8YY-WY-UNi09aD3H_lZ?media-id=RifgGrN7ULa2VvPyimX9vzgpw3U56RQ0XtSfRHuc2JyZX8YY-WY-UNi09aD3H_lZ&appid=wx6a9c6bb5caea3512",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1601806518,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 6200,
+            "totalStockNum": 99,
+            "skuList": [
+                {
+                    "skuId": "6195750",
+                    "price": 6200
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 1001117,
+            "productId": 1001117,
+            "title": "头发毛巾",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/dQjEl02aq7-CjVlWNCQwglPHzopWv_mVT8cGGoH6wXQdVooE6ceHSbwJitQNkGTV?media-id=dQjEl02aq7-CjVlWNCQwglPHzopWv_mVT8cGGoH6wXQdVooE6ceHSbwJitQNkGTV&appid=wx314dd070d881531f",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1601806449,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 2830,
+            "totalStockNum": 99,
+            "skuList": [
+                {
+                    "skuId": "6190260",
+                    "price": 2830
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 993188,
+            "productId": 993188,
+            "title": "耐用百洁布",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/QCoAw7zJF_5IdFSZ80cJyfyc6Gxi1aihYFkTf0hCzq4wER2t_PgD6OVDXMHSYfy4?media-id=QCoAw7zJF_5IdFSZ80cJyfyc6Gxi1aihYFkTf0hCzq4wER2t_PgD6OVDXMHSYfy4&appid=wx681b1e78da02dd16",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1601806407,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 1760,
+            "totalStockNum": 99,
+            "skuList": [
+                {
+                    "skuId": "6195746",
+                    "price": 1760
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 999140,
+            "productId": 999140,
+            "title": "魔域文化三阶魔方",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/QV5G4AqaYIHG3Bz6XDjgi-O4FPPAx5YNLb3xDuW8YO9SfplvxyNjuNw-fcRPU-Fp?media-id=QV5G4AqaYIHG3Bz6XDjgi-O4FPPAx5YNLb3xDuW8YO9SfplvxyNjuNw-fcRPU-Fp&appid=wx681b1e78da02dd16",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1601806360,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 1400,
+            "totalStockNum": 99,
+            "skuList": [
+                {
+                    "skuId": "6192247",
+                    "price": 1400
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 991000,
+            "productId": 991000,
+            "title": "郁康螨虫喷雾",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/wKRlM6QP5r3MCMa1kvxF3fYzTgYhMAk-WpsqNufQ2EwJvm6hx3XrQprJ2Fi8qmuk?media-id=wKRlM6QP5r3MCMa1kvxF3fYzTgYhMAk-WpsqNufQ2EwJvm6hx3XrQprJ2Fi8qmuk&appid=wx681b1e78da02dd16",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1601806330,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 10000,
+            "totalStockNum": 99,
+            "skuList": [
+                {
+                    "skuId": "6184473",
+                    "price": 10000
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 997071,
+            "productId": 997071,
+            "title": "ABC卫生洗液",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/YVh_H7d93s4qrDxPY1mHUXtj2k0KoccH9UTZQ7p_6uwA_3vizKLdmAlbjlnqui0U?media-id=YVh_H7d93s4qrDxPY1mHUXtj2k0KoccH9UTZQ7p_6uwA_3vizKLdmAlbjlnqui0U&appid=wxca1fe42a16552094",
+            "status": 11,
+            "soldNum": 0,
+            "statusText": "自主下架",
+            "statusBigText": "已下架",
+            "editTime": 1601806261,
+            "editStatus": 1,
+            "editStatusText": "",
+            "price": 990,
+            "totalStockNum": 99,
+            "skuList": [
+                {
+                    "skuId": "6188382",
+                    "price": 990
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 983595,
+            "productId": 983595,
+            "title": "妇炎洁内裤",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/5sk6qLQSzjDsnkdVtrWu5objTVmOJeOqCLDMHXmapukjVaIWZThiDt89VL26lQJ6?media-id=5sk6qLQSzjDsnkdVtrWu5objTVmOJeOqCLDMHXmapukjVaIWZThiDt89VL26lQJ6&appid=wx681b1e78da02dd16",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1601806237,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 6980,
+            "totalStockNum": 99,
+            "skuList": [
+                {
+                    "skuId": "6188381",
+                    "price": 6980
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        },
+        {
+            "key": 983594,
+            "productId": 983594,
+            "title": "Free纯棉卫生巾",
+            "subTitle": "",
+            "headImg": "https://wxamusic.wx.qq.com/wxasr/getminipic/dM3n0r1JF6oDBfwoF0Sc9J-9lva5E5oIIF74gsRVSDa7lqKJF_Ei4zREgtvBcUlX?media-id=dM3n0r1JF6oDBfwoF0Sc9J-9lva5E5oIIF74gsRVSDa7lqKJF_Ei4zREgtvBcUlX&appid=wxca1fe42a16552094",
+            "status": 5,
+            "soldNum": 0,
+            "statusText": "销售中",
+            "statusBigText": "售卖中",
+            "editTime": 1601806213,
+            "editStatus": 4,
+            "editStatusText": "审核成功",
+            "price": 780,
+            "totalStockNum": 99,
+            "skuList": [
+                {
+                    "skuId": "6188380",
+                    "price": 780
+                }
+            ],
+            "source": 1,
+            "platformTitle": "小商店",
+            "platformId": 0
+        }
+    ]
