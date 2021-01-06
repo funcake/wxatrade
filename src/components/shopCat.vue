@@ -15,7 +15,7 @@
         :key="index"
         :cat="child"
         @update="$emit('update',cat.productId)"
-        @upShopCat="upShopCat"
+        @upShopCat="$emit('upShopCat',cat.catId)"
       ></ShopCat>
     </ul>
   </div>

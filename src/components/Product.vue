@@ -7,16 +7,17 @@
     <div style="padding:0.25rem">{{ product.title }}  <strong>{{ product.price / 100 }}</strong></div>
     <div style="position:absolute;bottom:0;right:0.25rem;color: skyblue;" v-show="product.selected"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span></div>
   <!-- 商品管理选项 -->
-    <div class="options" style="background: white;">
-      <button   v-if="product.status == 5"
+    <div class="options">
+      <button   
+              v-if="product.status == 5"
         class="weui-desktop-btn"
         @click.stop="$emit('BatchUnListing', product.key, index)"
-      ><span class="arrows_downward"></span></button>
+      ><span class="arrows_downward"></span>下架</button>
       <button
         v-if="product.status == 11"
         class="weui-desktop-btn"
         @click.stop="$emit('BatchListing', product.key, index)"
-      >  <span class="arrows_upward"></span> </button>
+      >  <span class="arrows_upward"></span>上架</button>
       <a :href="'https://mp.weixin.qq.com/wxatrade/goods/entry?productId='+product.key+'&token='+token+'&lang=zh_CN'" target="_blank" class="weui-desktop-btn">
         <span class="weui-desktop-menu-icon__order
 ">编</span>
@@ -73,6 +74,9 @@ export default {
   right: 0;
   margin: 0.25rem;
   visibility: hidden;
+}
+.weui-desktop-btn {
+  background:white;
 }
 .cell:hover .options {
   visibility: visible;

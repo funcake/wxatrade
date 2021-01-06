@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div   style="position: fixed; z-index: 1000; top: 80vh; right: 0">
+    <div   style="position: fixed; z-index: 1000; top: 90%; right: 0">
       <a
         :href="'https://mp.weixin.qq.com/wxatrade/goods/list?token='
           +token+'&lang=zh_CN'"
@@ -77,6 +77,7 @@
             :key="index"
             :cat="cat"
             @update="update"
+            @upShopCat="upShopCat"
           ></shopCat>
         </div>
       </div>
@@ -89,8 +90,12 @@
 import Product from "./components/Product";
 import ShopCat from "./components/shopCat";
 // import products from "./products.json";
-// import shopCat from "./shopCat.json";
+// import sh(opCat from "./shopCat.json";
 var products = []
+Array.prototype.page = function(page) {
+  let start = page*100
+  return this.slice(start,start+100)
+}
 var shopCat = []
 // var token = "";
 var productKeys = new Map();
@@ -116,7 +121,7 @@ export default {
       selected: [],
       上架: [],
       下架: [],
-      pageNum:1
+      pageNum:0
     };
   },
   mounted: function () {
@@ -137,17 +142,21 @@ export default {
     },
     goodsList() {
           fetch(
-      `/wxatrade/cgi/goods/list?token=${this.token}&lang=zh_CN&sortType=4&pageSize=100&pageNum=${this.pageNum}&needTotalNum=true&needStockNum=true&nextKey=&random=0.8868823466231559`,
+      `/wxatrade/cgi/goods/list?token=${this.token}&lang=zh_CN&sortType=4&pageSize=2000&pageNum=1&needTotalNum=true&needStockNum=true&nextKey=&random=0.8868823466231559`,
       { method: "GET", mode: "cors" }
     ).then((r) =>
       r.json().then((j) => {
        products = j.products;
-        products.forEach((p, i) => {productKeys.set(p.key, i); p.selected = false;
-          this.$set(this.products,i,p)
-        });
-        this.fresh();
+       this.initProduct(products.page(this.pageNum))
       })
     );
+    },
+    initProduct(product) {
+      console.log(product)
+      product.forEach((p, i) => {productKeys.set(p.key, i); p.selected = false;
+        this.$set(this.products,i,p)
+      });
+      this.fresh();
     },
     getShopSonCat() {
       fetch(
