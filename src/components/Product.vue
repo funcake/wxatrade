@@ -1,6 +1,5 @@
 <template>
   <div @click="$emit('select', index)" :class="{selected:product.selected}" class="cell">
- 
      <div style="width:100%">
     <img :src="product.headImg" style="width: 100%;height:8rem;object-fit:cover" />
      </div>
@@ -10,29 +9,28 @@
     <div class="options">
       <button   
               v-if="product.status == 5"
-        class="weui-desktop-btn"
+        class="weui-desktop-btn button"
         @click.stop="$emit('BatchUnListing', product.key, index)"
-      ><span class="arrows_downward"></span>下架</button>
+      ><span class="arrows_downward"></span>下</button>
       <button
-        v-if="product.status == 11"
-        class="weui-desktop-btn"
+        v-if="product.status != 5"
+        class="weui-desktop-btn button"
         @click.stop="$emit('BatchListing', product.key, index)"
-      >  <span class="arrows_upward"></span>上架</button>
-      <a :href="'https://mp.weixin.qq.com/wxatrade/goods/entry?productId='+product.key+'&token='+token+'&lang=zh_CN'" target="_blank" class="weui-desktop-btn">
+      >  <span class="arrows_upward"></span>上</button>
+      <a :href="'https://mp.weixin.qq.com/wxatrade/goods/entry?productId='+product.key+'&token='+token+'&lang=zh_CN'" target="_blank" class="weui-desktop-btn button">
         <span class="weui-desktop-menu-icon__order
 ">编</span>
       </a>
-      <button class="weui-desktop-btn" @click.stop="$emit('BatchDel', product.key, index)">
-        <span class="icon_delete"></span>
+      <button class="weui-desktop-btn button" @click.stop="$emit('BatchDel', product.key, index)">
+        <span class="icon_delete">删</span>
       </button>
     <button 
-    style="position: absolute;bottom: 0;right:0;" class="weui-desktop-btn weui-desktop-btn-primary"
+    style="position: absolute;bottom: 0;right:0;" class="weui-desktop-btn button"
           @click.stop="$emit('multSelect',index)"
-          v-if="!product.selected"
-      >
-      <span class="icon_add
-">
-</span>
+          v-if="!product.selected"  >
+      <span class="icon_add">
+      多选
+      </span>
     </button>
     </div>
   </div>
@@ -74,9 +72,6 @@ export default {
   right: 0;
   margin: 0.25rem;
   visibility: hidden;
-}
-.weui-desktop-btn {
-  background:white;
 }
 .cell:hover .options {
   visibility: visible;
