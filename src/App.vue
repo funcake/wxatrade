@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div   style="position: fixed; z-index: 1000; top: 90%; right: 0">
+    <div   style="position: fixed; z-index: 100000; top: 90%; right: 0">
       <!-- <a
         :href="'https://mp.weixin.qq.com/wxatrade/goods/list?token='
           +token+'&lang=zh_CN'"
@@ -9,7 +9,7 @@
       >
         <button class="weui-desktop-btn button">商品列表</button>
         </a> -->
-      <button class="weui-desktop-btn button" @click="showM">商品管理</button>
+      <button class="weui-desktop-btn button" style="z-index:100100;border:1px" @click="showM">商品管理</button>
     </div>
     <div v-if="showMessage">
       <div
@@ -19,9 +19,8 @@
           flex-wrap: wrap;
           align-items: stretch;
           overflow: auto;
-          z-index: 1000; 
-          width: 80%;
-          height: 80%;
+          width: 100%;
+          height: 100%;
           top: 50%;
           left: 50%;
           transform: translate(-50%, -50%);
@@ -149,7 +148,7 @@ export default {
     },
     goodsList() {
       let PageOne = new Promise(
-        (resolve,reject) =>
+        (resolve) =>
           fetch(
             `/wxatrade/cgi/goods/list?token=${this.token}&lang=zh_CN&sortType=8&pageSize=1000&pageNum=1&needTotalNum=true&needStockNum=true&nextKey=&random=0.8868823466231559`,
             { method: "GET", mode: "cors" }
@@ -160,7 +159,7 @@ export default {
           )
       );
       let PageTwo = new Promise(
-        (resolve,reject) =>
+        (resolve) =>
           fetch(
             `/wxatrade/cgi/goods/list?token=${this.token}&lang=zh_CN&sortType=8&pageSize=1000&pageNum=2&needTotalNum=true&needStockNum=true&nextKey=&random=0.8868823466231559`,
             { method: "GET", mode: "cors" }
@@ -170,7 +169,6 @@ export default {
             })
           )
       );
-        console.log(products)
       Promise.all([PageOne,PageTwo]).then((allProducts)=>{
         console.log(  )
             products = allProducts.flat()
@@ -295,7 +293,6 @@ products.forEach((p)=>{
         this.fresh(updateProducts);
     },
     upShopCat: function (catId) {
-      console.log(this.selected)
       let keys = this.selected.map(p=>p.key).reduce((a,c)=>a+'%2C'+c)
         fetch(
           `https://mp.weixin.qq.com/wxatrade/cgi/shop/UpShopCatProduct?token=${this.token}&lang=zh_CN&random=0.618694497087614`,
@@ -306,7 +303,7 @@ products.forEach((p)=>{
             method: "POST",
             mode: "cors",
           }
-        ).then(r=>{
+        ).then(()=>{
           this.clean();
       this.getShopSonCat();
         })

@@ -27,8 +27,6 @@ export default {
     'cat',
     // 'productId'
   ],
-  data() {
-  },
   mounted() {
     let that = this 
       fetch(
